@@ -1,2 +1,2 @@
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV1 
-http://222.71.90.218:8888/newlive/live/hls/2/live.m3u8 id=cctv1hd8m/8000000
+http://222.71.90.218:8888/newlive/live/hls/2/live.m3u8?id=cctv1hd8m/8000000
