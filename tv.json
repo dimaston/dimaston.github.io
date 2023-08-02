@@ -21,16 +21,24 @@
             "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
             "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
         },
-  {
-            "key": "js_侦探TV",
-            "name": "⚡┃侦探┃盒子",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-            "ext": "https://gitee.com/dimaston/4k/raw/master/js/zhentan.js"
-        },
+   {
+      "key": "csp_Lib",
+      "name": "🌟利播┃直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.fun/"
+    },
+    {
+      "key": "贱贱",
+      "name": "🐭贱贱┃p2p",
+      "type": 3,
+      "playerType": "1",
+      "api": "http://xhww.fun:63/js/drpy1.min.js",
+      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+    },
       
 //饭太硬接口
 //{"key": "酷酷","name": "💡┃酷酷┃4K","type": 3,"api": "csp_AppYsV2","ext": "http://ys.realdou.cn/api.php/app/","categories": ["4K电影","4K电视剧"]},
