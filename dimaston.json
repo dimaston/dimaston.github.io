@@ -179,6 +179,441 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+      "key": "野兔资源",
+      "name": "夜兔┃切片",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+      "categories": [
+        "无敌4K资源",
+        "电影",
+        "动漫动画",
+        "国产剧",
+        "日韩剧",
+        "泰剧",
+        "欧美剧",
+        "纪录片"
+      ],
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "365",
+      "name": "👑365秒播👑",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://guan.yy365.vip/api.php/app/"
+    },
+    {
+      "key": "yc",
+      "name": "👑夜猫影巢4K👑",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+    },
+    {
+      "key": "ky",
+      "name": "👑酷影┃4K👑",
+      "type": 3,
+      "api": "csp_App",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://ys.realdou.cn:62703/api.php/app/",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+    },
+    {
+      "key": "ruyi",
+      "name": "👑如意┃4K👑",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ],
+      "ext": "http://cms.maoyingshi.cc/api.php/app/",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+    },
+    {
+      "key": "xymzkk",
+      "name": "👑夜猫好酷👑",
+      "type": 3,
+      "playerType": 1,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E6%96%B0%E9%85%B7%E5%BD%B1.js"
+    },
+    {
+      "key": "yt",
+      "name": "👑新夜猫子4k👑",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+    },
+    {
+      "key": "csp_appysv2_迷你库",
+      "name": "👑夜猫迷你2k👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
+      "key": "AppYs_yumi",
+      "name": "👑夜猫至臻👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E6%96%B0%E5%A4%9C%E7%8C%AB%E8%87%B3%E8%87%BB.js"
+    },
+    {
+      "key": "ymzy2k",
+      "name": "👑夜猫自营2k👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/夜猫自营2k.js"
+    },
+    {
+      "key": "影院",
+      "name": "👑夜猫蓝光2K👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "AppYs_南瓜",
+      "name": "👑南瓜蓝光👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+    },
+    {
+      "key": "狐狸影视",
+      "name": "👑狐狸影视2k👑",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "忍者视频",
+      "name": "👑夜猫忍者👑",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b",
+      "ext": "http://www.rzys.cc"
+    },
+    {
+      "key": "AppYs_xylg2",
+      "name": "👑夜猫自营蓝光👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/自营蓝光2.js"
+    },
+    {
+      "key": "ymzy",
+      "name": "👑夜猫自营高清👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E8%87%AA%E8%90%A5.js"
+    },
+    {
+      "key": "xymzftfx",
+      "name": "👑非同凡响👑",
+      "type": 3,
+      "playerType": 1,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/ymz1231/js/-/raw/main/非同凡响.js"
+    },
+    {
+      "key": "极客",
+      "name": "👑极客|蓝光👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.jiketv.com/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/year/{year}.html;;akx",
+        "分类": "动漫$4#电影$1#剧集$2#综艺$3"
+      }
+    },
+    {
+      "key": "9yyq",
+      "name": "👑九禹云播👑",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://v.jiuyuyun.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": "dr_jqr",
+      "name": "👑夜猫聚影👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/ikan.js"
+    },
+    {
+      "key": "dr_czyzy",
+      "name": "🚚厂长蓝光2k",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
+    },
+    {
+      "key": "csp_低端",
+      "name": "🚜低端|蓝光",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.json"
+    },
+    {
+      "key": "小鹿",
+      "name": "🦒小鹿高清",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "电影$1#电视剧$31#动漫$4#综艺$3",
+        "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
+      }
+    },
+    {
+      "key": "csp_Mp4Mov",
+      "name": "🧲磁力Mp4电影",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_SeedHub",
+      "name": "🧲SeedHub",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_KubaCL",
+      "name": "🧲磁力酷吧电影",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XYQHiker_极影网",
+      "name": "🧲极影网",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E6%9E%81%E5%BD%B1%E7%BD%91.json"
+    },
+    {
+      "key": "csp_BLSGod",
+      "name": "🧲80S影视",
+      "type": 3,
+      "api": "csp_BLSGod",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_MeijuTT",
+      "name": "🧲磁力美剧天堂",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_MeijuMi",
+      "name": "🧲磁力美剧迷",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mp4",
+      "name": "Ⓜ️MP4┃磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 2,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/mp4%E7%A3%81%E5%8A%9B.json"
+    },
+    {
+      "key": "6V",
+      "name": "🏹6v磁力搜",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 2,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6V电影.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "🤡玩偶哥哥",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
+    },
+    {
+      "key": "csp_XYQHikerlg4k",
+      "name": "💋玩偶姐姐4k",
+      "type": 3,
+      "playerType": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/4KHDR.json"
+    },
+    {
+      "key": "csp_XYQHiker4klg",
+      "name": "💅🏻玩偶妹妹4k",
+      "type": 3,
+      "playerType": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json"
+    },
+    {
+      "key": "csp_XYQHiker_‍dyx",
+      "name": "🚢电影港磁力4k",
+      "type": 3,
+      "playerType": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/电影港.json"
+    },
+    {
+      "key": "csp_xpath_yinfans",
+      "name": "💥音范丝4K",
+      "type": 3,
+      "playerType": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/音范丝.json"
+    },
+    {
+      "key": "ity",
+      "name": "爱TV丨4k",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": {
+        "数组": "<div class=\"stui-vodlist__box\">&&</div>",
+        "副标题": "<span class=\"pic-text text-right\"><b>&&</b></span>",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6",
+        "分类url": "https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
+      }
+    },
+    {
+      "key": "drpy_js_荐片",
+      "name": "👑 | 荐片蓝光",
+      "type": 3,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/荐片.js",
+      "playerType": "1"
+    },
+    {
+      "key": "csp_slgq",
+      "name": "🏵️石榴蓝光",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E7%9F%B3%E6%A6%B4%E9%AB%98%E6%B8%85.json"
+    },
+    {
+      "key": "dr_ymi",
+      "name": "⭐┃映迷蓝光┃",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/映迷影院.js"
+    },
     {
       "key": "Lib",
       "name": "🌟利播┃直连",
