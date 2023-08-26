@@ -13,9 +13,13 @@
 "name":"🐦饭太硬了"
 },
 {
+"url":"https://dimaston.github.io/tongyong.json",
+"name":"🐦备用线路"
+},    
+{
 "url":"https://gitee.com/dimaston/4k/raw/master/tv/ali.json",
 "name":"🐦阿里专线"
-},
+},   
 {
 "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx",
 "name":"🐦夜猫子线"
@@ -76,10 +80,6 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
       "name": "🐦蜂蜜线路"
     },
-{
-"url":"https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-"name":"🐦小苹果线"
-},
  {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
       "name": "🐦霜辉月明"
