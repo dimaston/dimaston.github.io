@@ -254,7 +254,7 @@
     {"key":"幼儿启蒙","name":"🌏┃幼儿┃启蒙","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/幼儿启蒙.json","jar": ""},      
    {
             "key": "益智",
-            "name": "🌏益智┃动画",
+            "name": "🌏┃益智┃动画",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -262,7 +262,7 @@
             "filterable": 0,
      "ext":"https://jihulab.com/ymz1231/json/-/raw/main/益智动画.json", "jar":""},  
     {"key":"幼小衔接","name":"🌏┃幼小┃衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/幼小衔接.json","jar": ""},
-    {"key":"小灯塔","name":"🌏灯塔┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/小灯塔百科.json","jar": ""},
+    {"key":"小灯塔","name":"🌏┃灯塔┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/小灯塔百科.json","jar": ""},
 		{"key":"小灯塔科学","name":"🌏┃科学┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/小灯塔科学.json","jar": ""},
 		{"key":"小灯塔地理","name":"🌏┃地理┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/小灯塔地理.json","jar": ""},
 		{"key":"小灯塔国学","name":"🌏┃国学┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/小灯塔国学.json","jar": ""},
