@@ -635,32 +635,6 @@
       ]
     },
     {
-      "key": "app_影视之光",
-      "name": "🎳┃八仟┃影视",
-      "type": 1,
-      "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"
-    },
-    {
-      "key": "csp_yayaya",
-      "name": "👧┃耐菲┃影视",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-      "key": "csp_beijihu",
-      "name": "🎪┃极狐┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
       "key": "Zhaozy",
       "name": "🖥┃阿里┃找资源",
       "type": 3,
