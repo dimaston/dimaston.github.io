@@ -115,7 +115,7 @@ CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
 东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
 云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 
@@ -176,10 +176,6 @@ CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 东南卫视,http://api3.52tb.xyz/info?id=29&token=20230227aesvnb
 东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8?
 东南卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240588_1/encoder/0/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
-贵州卫视,http://39.134.136.151:6610/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=00
-贵州卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240318_1/encoder/0/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
-贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
 贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 贵州卫视,http://221.213.43.82:8888/newlive/live/hls/29/live.m3u8
 贵州卫视,http://39.134.136.151:6610/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=00
