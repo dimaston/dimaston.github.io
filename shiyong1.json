@@ -193,16 +193,6 @@
       "ext":"https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
     },
     {
-      "key": "B站影视",
-      "name": "|B站影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url":"https://bzhanyy.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类":"电影$1#电视剧$2#动漫$4#综艺$3"
-    }
-    },
-    {
       "key": "csp_非凡资源",
       "name": "🥗┃非凡┃资源",
       "type": 1,
