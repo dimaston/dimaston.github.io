@@ -241,12 +241,17 @@
     },
     {
       "key": "xymzkk",
-      "name": "🐳┃好酷┃老剧",
+      "name": "🐳┃好酷┃高清2K",
       "type": 3,
       "playerType": 1,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E6%96%B0%E9%85%B7%E5%BD%B1.js"
     },
+     { "key":"drpy_js_B站影视",
+      "name":"🍌┃VIP┃高清2K","type":3,
+      "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+      "ext":"https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
+    },  
     {
       "key": "xymzyt",
       "name": "🐋┃影探1┃4k",
