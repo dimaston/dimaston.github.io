@@ -128,6 +128,27 @@
       "playerType": "1",
       "ext": "http://xhww.fun:63/小米/源/饭团.json"
     },
+     {
+      "key": "骑骑影院",
+      "name": "🚵┃骑骑┃影院",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "js_悠米",
+      "name": "🎉‍┃悠米┃搜视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/youmi.js"
+    },
     {
       "key": "csp_zxzj",
       "name": "🍏┃超前┃点播",
@@ -189,25 +210,6 @@
       "filterable": 0,
       "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
       "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
-    {
-      "key": "ky",
-      "name": "🐘┃酷影┃4K",
-      "type": 3,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ys.realdou.cn:62703/api.php/app/",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
-    {
-      "key": "xymzkk",
-      "name": "🐳┃好酷┃高清2K",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E6%96%B0%E9%85%B7%E5%BD%B1.js"
     },
     {
       "key": "csp_非凡资源",
