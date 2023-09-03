@@ -172,7 +172,7 @@
       "filterable": 1,
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
-     {
+    {
       "key": "js_秒看",
       "name": "⚡️‍┃秒看┃影视",
       "type": 3,
@@ -183,6 +183,28 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/ytcms.js"
     },
+    {
+      "key": "大鹏",
+      "name": "🦅┃大鹏┃4K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://s.ether-mine.com/api.php/app/"
+    },
+    {
+      "key": "彩虹",
+      "name": "🌈┃彩虹┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    },
      {
       "key": "csp_FreeOK",
       "name": "💰️┃富瑞┃影院",
@@ -192,6 +214,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
+    },
+    {
+      "key": "AppYs_南瓜",
+      "name": "👑南瓜蓝光👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
     {
       "key": "csp_zxzj",
