@@ -21,13 +21,23 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "荐片",
+     {
+      "key": "贱贱",
       "name": "🐓┃荐片┃高清",
       "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "playerType": "1",
-      "api": "http://xhww.fun:63/js/drpy1.min.js",
-      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+    },
+     {
+      "key": "drpy_js_B站影视",
+      "name": "🍌┃VIP┃高清2K",
+      "type": 3,
+      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
     },
     {
       "key": "csp_DiDuan",
@@ -37,6 +47,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+     {
+      "key": "野兔资源",
+      "name": "🐰┃野兔┃超清",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+      "categories": [
+        "无敌4K资源",
+        "电影",
+        "动漫动画",
+        "国产剧",
+        "日韩剧",
+        "泰剧",
+        "欧美剧",
+        "纪录片"
+      ],
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "csp_Btwtoo",
@@ -49,19 +78,8 @@
       "filterable": 1
     },
     {
-      "key": "探探",
-      "name": "💎┃影探┃高清4k",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
-    },
-    {
       "key": "磁力熊",
-      "name": "🧲┃磁力┃熊4k",
+      "name": "🧲┃磁力┃4k",
       "type": 3,
       "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
@@ -161,25 +179,6 @@
       "ext": "https://www.libvio.fun/"
     },
     {
-      "key": "野兔资源",
-      "name": "🐰┃野兔┃超清",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-      "categories": [
-        "无敌4K资源",
-        "电影",
-        "动漫动画",
-        "国产剧",
-        "日韩剧",
-        "泰剧",
-        "欧美剧",
-        "纪录片"
-      ],
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "yc",
       "name": "🦊┃阿里┃4KHDR",
       "type": 3,
@@ -203,45 +202,12 @@
       "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
     },
     {
-      "key": "ruyi",
-      "name": "🐦┃如意┃4K",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ],
-      "ext": "http://cms.maoyingshi.cc/api.php/app/",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
-    {
       "key": "xymzkk",
       "name": "🐳┃好酷┃高清2K",
       "type": 3,
       "playerType": 1,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E6%96%B0%E9%85%B7%E5%BD%B1.js"
-    },
-    {
-      "key": "drpy_js_B站影视",
-      "name": "🍌┃VIP┃高清2K",
-      "type": 3,
-      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
-    },
-    {
-      "key": "xymzyt",
-      "name": "🐋┃影探1┃4k",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%BD%B1%E6%8E%A2_V2_1.js"
     },
     {
       "key": "csp_非凡资源",
