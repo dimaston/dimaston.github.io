@@ -67,6 +67,17 @@
       "searchable": 1,
       "quickSearch": 1
     },
+     {
+      "key": "探探",
+      "name": "🏵影探┃4k",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
     {
       "key": "csp_Btwtoo",
       "name": "🎠┃比特┃高清",
