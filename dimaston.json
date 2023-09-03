@@ -172,6 +172,27 @@
       "filterable": 1,
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
+     {
+      "key": "js_秒看",
+      "name": "⚡️‍┃秒看┃影视",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/ytcms.js"
+    },
+     {
+      "key": "csp_FreeOK",
+      "name": "💰️┃富瑞┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
+    },
     {
       "key": "csp_zxzj",
       "name": "🍏┃超前┃点播",
