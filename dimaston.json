@@ -1480,9 +1480,9 @@
       }
     },
     {
-      "name": "GGTV1",
+      "name": "自动解析",
       "type": 1,
-      "url": "https://api.json.icu//api//?key=aad5c2c72819716157511ef080f8d05f&url="
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
     },
     {
       "name": "GGTV2",
