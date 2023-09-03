@@ -76,6 +76,17 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/ytcms.js"
     },
+     {
+      "key": "探探",
+      "name": "🏵┃影探┃4k",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
     {
       "key": "大鹏",
       "name": "🦅┃大鹏┃4K",
