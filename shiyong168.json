@@ -21,6 +21,104 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+      "key": "骑骑影院",
+      "name": "🚵┃骑骑┃影院",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "js_悠米",
+      "name": "🎉‍┃悠米┃搜视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/youmi.js"
+    },
+     {
+      "key": "新片热播",
+      "name": "🔷┃新片┃热播",
+      "type": 1,
+      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "连续剧",
+        "动漫"
+      ]
+    },
+     {
+      "key": "csp_365影视",
+      "name": "🦛┃365┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://guan.yy365.vip/api.php/app/"
+    },
+    {
+      "key": "js_秒看",
+      "name": "⚡️‍┃秒看┃影视",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/ytcms.js"
+    },
+    {
+      "key": "大鹏",
+      "name": "🦅┃大鹏┃4K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://s.ether-mine.com/api.php/app/"
+    },
+    {
+      "key": "彩虹",
+      "name": "🌈┃彩虹┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    },
+     {
+      "key": "csp_FreeOK",
+      "name": "💰️┃富瑞┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
+    },
+    {
+      "key": "AppYs_南瓜",
+      "name": "👑┃南瓜┃蓝光",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+    },  
     {
       "key": "DiDuan",
       "name": "⏮️┃高端┃高清",
@@ -39,17 +137,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-     {
-      "key": "探探",
-      "name": "💎┃影探┃高清4k",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "drpy_js_263",
@@ -83,14 +170,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"
-    },
-    {
-      "key": "荐片",
-      "name": "🐓┃荐片┃高清",
-      "type": 3,
-      "playerType": "1",
-      "api": "http://xhww.fun:63/js/drpy1.min.js",
-      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
     },
     {
       "key": "drpy_js_兔小贝",
@@ -140,56 +219,11 @@
       "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
       "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
     },
-    {
-      "key": "ky",
-      "name": "🐘┃酷影┃4K",
-      "type": 3,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ys.realdou.cn:62703/api.php/app/",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
-    {
-      "key": "ruyi",
-      "name": "🐦┃如意┃4K",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ],
-      "ext": "http://cms.maoyingshi.cc/api.php/app/",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
-    {
-      "key": "xymzkk",
-      "name": "🐳┃好酷┃高清2k",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E6%96%B0%E9%85%B7%E5%BD%B1.js"
-    },
     { "key":"drpy_js_B站影视",
       "name":"🍌┃VIP┃高清2K","type":3,
       "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
       "ext":"https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
     }, 	  
-    {
-      "key": "xymzyt",
-      "name": "🐋┃影探┃4k",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%BD%B1%E6%8E%A2_V2_1.js"
-    },
     {
       "key": "csp_非凡资源",
       "name": "🥗┃非凡┃资源",
