@@ -252,6 +252,7 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳門蓮花,http://nettvpro.live/hls/lotustv.php?zgangd
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
+莲花卫视,https://cntv.sbs/tv/lhws.php
 中天新闻,http://211.72.65.236:8554/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://211.72.65.236:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 寰宇新闻,http://211.72.65.236:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
@@ -289,20 +290,9 @@ CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 
-🎇中国蓝,#genre#
-01中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-02中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-03中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-04中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-05中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
-06中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-07中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
-08中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
-09中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
-10中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
-11中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
-12中国蓝,http://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
-
+🎇体育频道,#genre#
+五星体育,https://cntv.sbs/tv?auth=230830&id=wxty
+劲爆体育,https://cntv.sbs/tv?auth=230830&id=jbty
 
 
 🐯动画片,#genre#
