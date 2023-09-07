@@ -68,6 +68,15 @@
       "quickSearch": 1
     },
      {
+      "key": "XYQH_电影港",
+      "name": "🛳┃港口┃┃4k",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
+    },
+     {
       "key": "探探",
       "name": "🏵┃影探┃4k",
       "type": 3,
@@ -98,6 +107,16 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/磁力熊[磁].js"
+    },
+      {
+      "key": "新6V",
+      "name": "🧲┃新6V┃4k",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
     },
     {
       "key": "csp_XBPQ_6V",
