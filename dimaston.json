@@ -576,28 +576,6 @@
       "jar": ""
     },
     {
-      "key": "虎虎",
-      "name": "虎虎┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/虎虎.json"
-    },
-    {
-      "key": "利播",
-      "name": "利播┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/利播.json"
-    },
-    {
-      "key": "滋滋",
-      "name": "滋滋┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/子子.json"
-    },
-    {
       "key": "apv2_瑞丰",
       "name": "⛄┃瑞丰┃影视",
       "type": 3,
