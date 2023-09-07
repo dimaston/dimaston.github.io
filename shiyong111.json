@@ -218,6 +218,20 @@
       "ext": "http://xhww.fun:63/小米/源/饭团.json"
     },
     {
+      "key": "csp_XYQHiker_极影网",
+      "name": "极影ⅡP2p",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/极影网.json"
+    },
+    {
       "key": "csp_XBPQ_6V",
       "name": "🌙┃宝盒┃磁力",
       "type": 3,
