@@ -25,7 +25,7 @@
       "key": "csp_SeedHub",
       "name": "🧲SeedHub",
       "type": 3,
-       "jar": "./jar/XYQ.jar;md5;d4a66c0f42281a803c8bc048240789cd",     
+       "jar": "https://github.com/gaotianliuyun/gao/raw/master/jar/XYQ.jar",     
       "api": "csp_SeedHub",
       "playerType": 1,
       "searchable": 1,
