@@ -149,6 +149,12 @@
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
+	  {"key":"csp_QQ_腾讯","name":"腾讯☆SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
+{"key":"csp_IQIYI_奇艺","name":"奇艺☆SP","type": 3,"api":"csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
+{"key":"csp_YOUKU_优酷","name":"优酷☆SP","type": 3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
+{"key":"csp_MGTV_芒果","name":"芒果☆SP","type": 3,"api":"csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
+{"key":"csp_KAN360_360","name":"360☆SP","type": 3,"api":"csp_KAN360","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
+
      {
       "key": "csp_FreeOK",
       "name": "💰️┃富瑞┃影院",
