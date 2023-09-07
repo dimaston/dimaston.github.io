@@ -221,6 +221,7 @@
       "key": "csp_XYQHiker_极影网",
       "name": "极影ⅡP2p",
       "type": 3,
+       "jar": "./xyq.jar",
       "api": "csp_XYQHiker",
       "style": {
         "type": "rect",
