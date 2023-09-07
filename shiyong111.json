@@ -1244,6 +1244,39 @@
         "ratio": 1.33
       }
     },
+            {
+            "key": "iqiyi",
+            "name": "爱奇艺",
+            "type": 1,
+            "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "qq",
+            "name": "腾讯视频",
+            "type": 1,
+            "api": "http://tvbox-1-g5221611.deta.app/vod/qq",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "360kan",
+            "name": "360影视",
+            "type": 1,
+            "api": "http://tvbox-1-g5221611.deta.app/vod/360kan",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "sohu",
+            "name": "搜狐",
+            "type": 1,
+            "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+  
     {
       "key": "drpy_js_优酷",
       "name": "优酷Ⅱ官源",
