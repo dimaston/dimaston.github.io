@@ -1035,8 +1035,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+	    "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar",
       "ext": "./json/蓝光电影网.json"
-      "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"
     },  
     {
       "key": "歌手_MV",
