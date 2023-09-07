@@ -1016,17 +1016,7 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/tiyu.py"
     },
-     {
-      "key": "csp_XYQHiker_BT天堂",
-      "name": "🧲BT天堂☆磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/BT天堂.json",
-      "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"
-    },
+
     {
       "key": "歌手_MV",
       "name": "🎵┃歌手┃MV",
