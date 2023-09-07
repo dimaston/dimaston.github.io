@@ -1191,6 +1191,192 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/xiqu.py"
     },
+	   {
+      "key": "搜狐",
+      "name": "搜狐Ⅱ官源",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "categories": [
+        "电视剧",
+        "电影",
+        "动漫",
+        "纪录片"
+      ]
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "芒果Ⅱ官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "./lib/百忙无果.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾讯Ⅱ官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾云驾雾.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "IQYⅡ官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇珍异兽.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷Ⅱ官源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    }, 
+      {
+      "key": "csp_SeedHub",
+      "name": "SHbⅡP2p",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "迅雷ⅡP2p",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_KubaCL",
+      "name": "酷吧ⅡP2p",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_New6v",
+      "name": "新6VⅡP2p",
+      "type": 3,
+      "api": "csp_New6v",
+      "categories": [
+        "电视剧",
+        "国剧",
+        "喜剧片",
+        "战争片"
+      ],
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.xb6v.com",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "csp_Mp4Mov",
+      "name": "Mp4ⅡP2p",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "categories": [
+        "电视剧",
+        "动作片",
+        "喜剧片",
+        "战争片"
+      ],
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "csp_XYQHiker_BT天堂",
+      "name": "天堂ⅡP2p",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/BT天堂.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "csp_XYQHiker_电影港",
+      "name": "电影ⅡP2p",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影港.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "csp_XYQHiker_极影网",
+      "name": "极影ⅡP2p",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/极影网.json"
+    },	  
     {
       "key": "py_xiangsh",
       "name": "🅱️┃相声┃小品",
