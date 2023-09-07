@@ -374,77 +374,7 @@
 		{"key":"儿童武术","name":"🌏┃武术┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/儿童武术.json","jar": ""},
 		{"key":"兴趣培养","name":"🌏┃培养┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/兴趣培养.json","jar": ""},
    
-    {
-      "key": "虎虎",
-      "name": "虎虎┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/虎虎.json"
-    },
-    {
-      "key": "滋滋",
-      "name": "滋滋┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/子子.json"
-    },
-    {
-      "key": "兔兔",
-      "name": "兔兔｜BPQ",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/兔兔.json"
-    },
-    {
-      "key": "臭蛋",
-      "name": "臭蛋┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/蛋蛋.json"
-    },
-    {
-      "key": "测试",
-      "name": "落落┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://luoye.shop:66/api.php/app/"
-    },
-    {
-      "key": "蓝光官采",
-      "name": "猫咪┃解析",
-      "type": 1,
-      "api": "http://zycj.jiexi.plus/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "https://jx.jsonplayer.com/player/?url=",
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "综艺",
-        "动漫",
-        "香港剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片"
-      ]
-    },
+  
     {
       "key": "app_轻简",
       "name": "🚈┃轻简┃影视",
