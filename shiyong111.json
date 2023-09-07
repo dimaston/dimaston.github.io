@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐼先试用满意，确认收货后发正式地址🐼",
+      "name": "🐼关注微信公众号【影音天堂】，发布更新通知更方便🐼",
       "type": 3,
       "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
@@ -1177,61 +1177,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/xiqu.py"
     },
-            {
-            "key": "iqiyi",
-            "name": "爱奇艺",
-            "type": 1,
-            "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "qq",
-            "name": "腾讯视频",
-            "type": 1,
-            "api": "http://tvbox-1-g5221611.deta.app/vod/qq",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "360kan",
-            "name": "360影视",
-            "type": 1,
-            "api": "http://tvbox-1-g5221611.deta.app/vod/360kan",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "sohu",
-            "name": "搜狐",
-            "type": 1,
-            "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-  
-    {
-      "key": "csp_XYQHiker_BT天堂",
-      "name": "天堂ⅡP2p",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/BT天堂.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-{"key":"csp_QQ_腾讯","name":"腾讯☆官网","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
-
-{"key":"csp_IQIYI_奇艺","name":"爱奇艺☆官网","type": 3,"api":"csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
-
-{"key":"csp_YOUKU_优酷","name":"优酷☆官网","type": 3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
-
-{"key":"csp_MGTV_芒果","name":"芒果☆官网","type": 3,"api":"csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"},
- 
     {
       "key": "py_xiangsh",
       "name": "🅱️┃相声┃小品",
