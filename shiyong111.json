@@ -1031,12 +1031,12 @@
       "key": "csp_XYQHikerAL_蓝光网",
       "name": "🧲蓝光网☆磁力",
       "type": 3,
-      "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar",
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/蓝光电影网.json"
+      "ext": "./json/蓝光电影网.json,
+      "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar",
     },  
     {
       "key": "歌手_MV",
