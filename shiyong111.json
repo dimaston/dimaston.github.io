@@ -1028,17 +1028,6 @@
       "ext": "./json/BT天堂.json"
     },
     {
-      "key": "csp_XYQHikerAL_蓝光网",
-      "name": "🧲蓝光网☆磁力",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	    "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar",
-      "ext": "./json/蓝光电影网.json"
-    },  
-    {
       "key": "歌手_MV",
       "name": "🎵┃歌手┃MV",
       "type": 1,
