@@ -1401,6 +1401,13 @@
       "type": 1,
       "url": "http://json.xg688.top/api/?key=ApHG2jGcimQWPOj5mO&url="
     },
+     {"name": "小书","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+    {"name": "玉米","type": 1,"url": "https://jx.lvdoui.com/api/?key=2df2141f41357bb5fc696bf6d3f56f00&url=","ext": {"flag": ["YuMi"],    "header": {"User-Agent": "okhttp/3.12.11"}}},
+    {"name": "大厂","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
+    {"name": "大厂1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
+    {"name": "大厂2","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
+    {"name": "大厂3","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=cdmqvxBNRSTUWXYZ19&mgtv=app&url="},
+
     {
       "name": "PM",
       "type": 1,
