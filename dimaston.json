@@ -77,6 +77,16 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
     },
      {
+      "key": "Qtv",
+      "name": "🐧企鹅┃4K",
+      "type": 3,
+      "api": "csp_Qtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },  
+     {
       "key": "探探",
       "name": "🏵┃影探┃4k",
       "type": 3,
@@ -895,16 +905,6 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
     },
     {
-      "key": "Qtv",
-      "name": "🐧企鹅┃解析",
-      "type": 3,
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "Itv",
       "name": "🥝奇艺┃解析",
       "type": 3,
@@ -1346,23 +1346,23 @@
     }
   ],
   "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
+     {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
     },
     {
       "name": "Json并发",
       "type": 2,
       "url": "Parallel"
     },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
+     {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },  
    {
-		"name": "腾讯",
+		"name": "4K解析",
 		"type": 1,
 		"url": "http://119.91.31.224:82/txqq.php?url=",
 		"ext": {
