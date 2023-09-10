@@ -1223,78 +1223,7 @@
 		"ext": {
 			"flag": [ "XMFK", "XZYFK", "LK"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
-	},{
-		"name": "蚂蚁",
-		"type": 1,
-		"url": "http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=",
-		"ext": {
-			"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},{
-		"name": "玉米",
-		"type": 1,
-		"url": "http://61.147.93.21:8090/index.php?url=",
-	    "ext": {
-			"flag": ["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},{  "name":"奇奇",
-	    "type":1,
-	    "url":"http://42.51.37.161:5678/json/520239app9/ml774.php?url=",
-	    "ext":{"flag":["qiqi","kuying-qq"],"header":{"User-Agent":"okhttp/4.1.0"}
-	    }
-    },{
-	    "name": "车哥", 
-	    "type": 1, 
-	    "url": "http://61.147.93.21:8090/index.php?url=", 
-	    "ext": { "flag": [ "JHA", "JHB", "JHHD", "mmal"] }
-	},{
-	    "name": "车弟", 
-	    "type": 1, 
-	    "url": "https://xjx.tvcms.top/api/?key=a035e75110289821feec5033ffde2bec&url=", 
-	    "ext": { "flag": [ "TD", "JHA", "JHB", "mmal", "FY" ] }
-	},{
-        "name": "精选1",
-        "type": 0, 
-        "url": "https://jx.777jiexi.com/player/?url="
-    },{
-		"name": "精选2",
-		"type": 0,
-		"url": "https://www.yemu.xyz/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},{
-		"name": "精选3",
-		"type": 0,
-		"url": "https://jx.jsonplayer.com/player/?url="
-	},{
-		"name": "精选4",
-		"type": 0,
-		"url": "https://www.nxflv.com/?url=",
-		"ext": {
-			"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]
-		}  
-	},{
-		"name": "精选5",
-		"type": 0,
-		"url": "https://jx.bozrc.com:4433/player/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}   
-	}],
-	
-  "rules": [
-    {
-      "name": "米来", 
-      "hosts": ["42.51.37.161:5678"],
-      "regex": ["#EXTINF"] },
-{
-      "name": "双十", 
-      "hosts": ["www.1010dy.cc"],
-      "regex": ["#EXTINF"] },
-    { "name": "爱酷", 
-      "hosts": ["cdn.json.icu"],
-      "regex": ["#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"] },
+	},
     {
       "name": "自动解析",
       "type": 1,
