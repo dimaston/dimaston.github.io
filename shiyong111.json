@@ -239,7 +239,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/影渣渣影视.json"
+      "ext": "./json/影渣渣影视.json",
+      "jar": "https://cloud.lxweb.cn/f/LXVCD/qji0804.jar"
     },
     {
       "key": "csp_XBPQ_毛毛子",
@@ -249,7 +250,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/毛毛子视频.json"
+      "ext": "./json/毛毛子视频.json",
+       "jar": "https://cloud.lxweb.cn/f/LXVCD/qji0804.jar"
     },
     {
       "key": "饭团",
