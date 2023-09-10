@@ -218,7 +218,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.6080yy3.com/"
-    },  
+    }, 
+      {
+      "key": "csp_农民",
+      "name": "✈️速度流畅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/ygbh1/box/-/raw/main/H/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
+    },
     {
       "key": "饭团",
       "name": "🎈┃饭团┃高清",
