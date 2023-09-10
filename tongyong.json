@@ -23,7 +23,7 @@
     },
     {
       "key": "Qtv",
-      "name": "🐧┃藤讯┃4K",
+      "name": "🐧┃藤讯┃2K",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -49,17 +49,6 @@
       ],
       "searchable": 1,
       "quickSearch": 1
-    },
-     {
-      "key": "大鹏",
-      "name": "🦅┃大鹏┃4K",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://s.ether-mine.com/api.php/app/"
     },
     {
       "key": "彩虹",
@@ -137,6 +126,65 @@
         "动漫"
       ]
     },
+       {
+      "key": "csp_Nmys",
+      "name": "👨‍🌾┃农民┃2K",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/Nmys.json"
+    },  
+    {
+      "key": "zxzj",
+      "name": "📗┃在线┃2K",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },  
+      {
+      "key": "Vofl",
+      "name": "🎈┃VOF┃2K",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },  
+      {
+      "key": "Xinsj",
+      "name": "👓┃视觉┃2K",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/"
+    }, 
+       {
+      "key": "csp_Mayiys_忍者",
+      "name": "👶┃忍者┃2K",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.rzys.cc",
+      "jar": "https://cloud.lxweb.cn/f/LXVCD/qji0804.jar"
+    },  
+      {
+      "key": "Auete",
+      "name": "🏝┃奥特┃2K",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },  
      {
       "key": "csp_365影视",
       "name": "🦛┃365┃影视",
