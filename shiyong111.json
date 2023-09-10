@@ -231,27 +231,14 @@
       "ext": "http://www.rzys.cc",
       "jar": "https://cloud.lxweb.cn/f/LXVCD/qji0804.jar"
     },  
-     {
-      "key": "csp_XYQHiker_影渣渣",
-      "name": "👶影渣☆影视",
+      {
+      "key": "Auete",
+      "name": "🏝┃奥特┃2K",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/影渣渣影视.json",
-      "jar": "./jar/xyqg0904.jar"
-    },
-    {
-      "key": "csp_XBPQ_毛毛子",
-      "name": "👶毛子☆视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/毛毛子视频.json",
-       "jar": "./jar/xyqg0904.jar"
+      "changeable": 1
     },
     {
       "key": "饭团",
@@ -375,15 +362,7 @@
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
-     {
-      "key": "Auete",
-      "name": "🏝┃奥特┃2K",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
      {"key":"童趣","name":"🍭┃童趣┃儿童","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"},
     {"key":"幼儿启蒙","name":"🌏┃幼儿┃启蒙","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/幼儿启蒙.json","jar": ""},      
    {
