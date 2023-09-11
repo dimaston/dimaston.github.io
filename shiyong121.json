@@ -31,25 +31,6 @@
       "filterable": 1,
       "changeable": 0
     },
-     {
-      "key": "野兔资源",
-      "name": "🐰┃野兔┃4K",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-      "categories": [
-        "无敌4K资源",
-        "电影",
-        "动漫动画",
-        "国产剧",
-        "日韩剧",
-        "泰剧",
-        "欧美剧",
-        "纪录片"
-      ],
-      "searchable": 1,
-      "quickSearch": 1
-    },
     {
       "key": "彩虹",
       "name": "🌈┃彩虹┃4K",
