@@ -92,6 +92,13 @@
       "changeable": 1,
       "ext": "vip.lyyytv.cn"
     },
+    {
+      "key": "drpy_js_胖虎影视",
+      "name": "🐯┃胖虎┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"
+    },
       {
       "key": "drpy_js_子子影视",
       "name": "🎑┃子子┃2K",
@@ -134,6 +141,20 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/首播影院.js"
     },
+     {
+      "key": "drpy_js_萌蛋蛋[V2]",
+      "name": "🐥┃萌蛋┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/萌蛋蛋[V2].js"
+    },
+      {
+      "key": "drpy_js_麦豆com",
+      "name": "🌿┃麦豆┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/麦豆com.js"
+    },	  
     {
       "key": "骑骑影院",
       "name": "🚵┃骑骑┃影院",
