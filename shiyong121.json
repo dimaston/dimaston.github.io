@@ -92,6 +92,48 @@
       "changeable": 1,
       "ext": "vip.lyyytv.cn"
     },
+      {
+      "key": "drpy_js_子子影视",
+      "name": "🎑┃子子┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
+    },
+     {
+      "key": "drpy_js_影渣渣",
+      "name": "🍒┃影渣┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
+    }, 
+       {
+      "key": "drpy_js_四个圈儿",
+      "name": "🌓┃四圈┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"
+    },
+     {
+      "key": "drpy_js_新片场",
+      "name": "🔇┃广告┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新片场.js"
+    },
+       {
+      "key": "drpy_js_人人影视",
+      "name": "🙇┃人人┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"
+    },
+      {
+      "key": "drpy_js_首播影院",
+      "name": "👌┃首播┃2K",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/首播影院.js"
+    },
     {
       "key": "骑骑影院",
       "name": "🚵┃骑骑┃影院",
