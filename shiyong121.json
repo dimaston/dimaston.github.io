@@ -1217,7 +1217,28 @@
       "type": 3,
       "url": "Demo"
     },  
-  
+     {
+		"name": "解析",
+		"type": 1,
+		"url": "http://119.91.31.224:82/txqq.php?url=",
+		"ext": {
+			"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},{
+		"name": "官解1",
+		"type": 1,
+		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+		"ext": {
+			"flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},{
+		"name": "官解2",
+		"type": 1,
+		"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+		"ext": {
+			"flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "xigua","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		} 
+    },
     {
       "name": "自动解析",
       "type": 1,
