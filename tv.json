@@ -1,18 +1,18 @@
 {
   "warningText": "🐼迪玛诗顿提醒您:本软件接口长期更新维护 请放心使用🐼",
   "sites": [
-  
-    {
-      "key": "js_荐片",
-      "name": "加QQ群868538326，购买4K 高清接口",
+      {
+      "key": "贱贱",
+      "name": "关注微信公众号：影音天堂，领取4K接口",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/荐片.js",
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     }
+   
   ],
   "parses": [
     {
