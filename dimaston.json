@@ -1496,14 +1496,7 @@
       "type": 3,
       "url": "Demo"
     },  
-   {
-		"name": "解析",
-		"type": 1,
-		"url": "http://119.91.31.224:82/txqq.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},{
+    {
 		"name": "官解1",
 		"type": 1,
 		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
