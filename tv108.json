@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "免费接口，请勿消费，购买者请退款差评",
+      "name": "免费接口，请勿付费购买，购买者请先差评再退款",
       "type": 3,
       "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
