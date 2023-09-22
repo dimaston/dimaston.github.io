@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "热播推荐",
+      "name": "关注微信公众号：看高清4K",
       "type": 3,
       "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
@@ -17,6 +17,15 @@
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "key": "毛驴",
+      "name": "🦒┃小驴┃4K",
+      "type": 3,
+      "api": "csp_Maolv",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1291,14 +1300,7 @@
       "type": 3,
       "url": "Demo"
     },  
-   {
-		"name": "4K解析",
-		"type": 1,
-		"url": "http://119.91.31.224:82/txqq.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},{
+  {
 		"name": "官解1",
 		"type": 1,
 		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
