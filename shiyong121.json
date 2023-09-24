@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "试用地址",
+      "name": "关注微信公众号：看高清4K",
       "type": 3,
       "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
@@ -21,9 +21,18 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+      "key": "毛驴",
+      "name": "🦒┃小驴┃4K",
+      "type": 3,
+      "api": "csp_Maolv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "Qtv",
-      "name": "🐧┃腾讯┃4K",
+      "name": "🐧┃藤讯┃2K",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -31,6 +40,40 @@
       "filterable": 1,
       "changeable": 0
     },
+    {
+            "key": "索尼",
+            "name": "🛸索尼┃4k",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "国产剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "港剧",
+            "台剧",
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    "日韩综艺",
+	    "港台综艺",
+	    "欧美综艺",
+	     "足球",
+	    "影视解说",
+            "国产动漫"
+          ]
+        },
     {
       "key": "彩虹",
       "name": "🌈┃彩虹┃4K",
@@ -73,12 +116,87 @@
       "changeable": 1,
       "ext": "vip.lyyytv.cn"
     },
+     {
+        "key": "yqkan_open",
+        "name": "🛁┃短剧┃2K",
+        "type": 3,
+        "api": "csp_YQKan",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    },
     {
-      "key": "drpy_js_胖虎影视",
-      "name": "🐯┃胖虎┃2K",
+      "key": "骑骑影院",
+      "name": "🚵┃骑骑┃影院",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+     {
+      "key": "新片热播",
+      "name": "🔷┃新片┃热播",
+      "type": 1,
+      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "连续剧",
+        "动漫"
+      ]
+    },
+       {
+      "key": "csp_Nmys",
+      "name": "👨‍🌾┃农民┃2K",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/Nmys.json"
+    },  
+    {
+      "key": "zxzj",
+      "name": "📗┃在线┃2K",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },  
+      {
+      "key": "Vofl",
+      "name": "🎈┃VOF┃2K",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },  
+      {
+      "key": "Xinsj",
+      "name": "👓┃视觉┃2K",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/"
+    }, 
+      {
+      "key": "Auete",
+      "name": "🏝┃奥特┃2K",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
       {
       "key": "drpy_js_子子影视",
@@ -135,40 +253,6 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/麦豆com.js"
-    },	  
-    {
-      "key": "骑骑影院",
-      "name": "🚵┃骑骑┃影院",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-     {
-      "key": "新片热播",
-      "name": "🔷┃新片┃热播",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "动漫"
-      ]
-    },
-     {
-      "key": "csp_365影视",
-      "name": "🦛┃365┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://guan.yy365.vip/api.php/app/"
     },
      {
       "key": "csp_FreeOK",
@@ -225,62 +309,6 @@
       "api": "csp_AppYsV2",
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-      {
-      "key": "csp_Nmys",
-      "name": "👨‍🌾┃农民┃2K",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/Nmys.json"
-    },  
-    {
-      "key": "zxzj",
-      "name": "📗┃在线┃2K",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },  
-      {
-      "key": "Vofl",
-      "name": "🎈┃VOF┃2K",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },  
-      {
-      "key": "Xinsj",
-      "name": "👓┃视觉┃2K",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
-    }, 
-      {
-      "key": "Auete",
-      "name": "🏝┃奥特┃2K",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "饭团",
-      "name": "🎈┃饭团┃高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/饭团.json"
-    },
     {
       "key": "csp_XBPQ_6V",
       "name": "🌙┃宝盒┃4K",
@@ -308,14 +336,9 @@
       "filterable": 1,
       "ext": "https://www.zxzj.pro/"
     },
-      { "key":"drpy_js_B站影视",
-      "name":"🍌┃VIP┃高清2K","type":3,
-      "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-      "ext":"https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
-    }, 	  
     {
       "key": "yc",
-      "name": "🦊┃磁力┃4KHDR",
+      "name": "🦊┃阿里┃4KHDR",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hdhive",
@@ -395,7 +418,16 @@
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
-   
+    {
+      "key": "csp_Nmys",
+      "name": "👨‍🌾┃农民┃影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/Nmys.json"
+    },
      {"key":"童趣","name":"🍭┃童趣┃儿童","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"},
     {"key":"幼儿启蒙","name":"🌏┃幼儿┃启蒙","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/幼儿启蒙.json","jar": ""},      
    {
@@ -1198,14 +1230,7 @@
       "type": 3,
       "url": "Demo"
     },  
-     {
-		"name": "解析",
-		"type": 1,
-		"url": "http://119.91.31.224:82/txqq.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},{
+  {
 		"name": "官解1",
 		"type": 1,
 		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
