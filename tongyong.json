@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "关注微信公众号：影音天堂，获取新接口",
+      "name": "关注微信公众号：影音天堂，获取最新4K接口",
       "type": 3,
       "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/29_022812_drpy.js",
@@ -14,7 +14,7 @@
    
     {
       "key": "py_xiangsh",
-      "name": "🅱️┃相声┃小品",
+      "name": "关注微信公众号：影音天堂，获取最新4K接口",
       "type": 3,
       "api": "py_xiangsh",
       "searchable": 0,
