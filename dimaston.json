@@ -178,7 +178,40 @@
         "体育赛事",
         "海外剧"
       ]
-    },	
+    },
+     {
+      "key": "csp_Alistxy",
+      "name": "♻️┃Alist┃4K",
+      "type": 3,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
+      "api": "csp_AListxy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "drives": [
+          {
+            "name": "💃小雅搜索1",
+            "server": "http://124.71.206.236:5678",
+            "version": 3
+          },
+          {
+            "name": "💃小雅搜索2",
+            "server": "http://112.10.205.74:5678",
+            "version": 3
+          },
+          {
+            "name": "💃小雅搜索3",
+            "server": "http://182.120.114.23:5678",
+            "version": 3
+          },
+          {
+            "name": "💃小雅搜索4",
+            "server": "https://222.248.200.97:8765",
+            "version": 3
+          }
+        ]
+      }
+    },
     {
       "key": "csp_Btwtoo",
       "name": "🎠┃比特┃2K",
