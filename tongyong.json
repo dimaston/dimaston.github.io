@@ -126,6 +126,16 @@
       "changeable": 1,
       "ext": "vip.lyyytv.cn"
     },
+    {
+            "key": "Alist",
+            "name": "️🌱┃小雅┃4K",
+            "type": 3,
+            "api": "http://154.8.204.57:40047/tvbox/libs/alist.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://154.8.204.57:40047/tvbox/json/alist.json;200;video"
+        },
      {
         "key": "yqkan_open",
         "name": "🛁┃短剧┃2K",
