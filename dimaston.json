@@ -212,6 +212,19 @@
         ]
       }
     },
+      {
+      "key": "Aid",
+      "name": "🚑┃急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
     {
       "key": "csp_Btwtoo",
       "name": "🎠┃比特┃2K",
