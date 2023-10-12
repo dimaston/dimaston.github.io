@@ -11,18 +11,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-       {
-      "key": "csp_XBPQ_haoxi",
-      "name": "🍎┃好戏┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/好戏.json"
-    },
      
-      
      {
             "key": "直播转点播",
             "name": "📺︎┃电视┃直播",
@@ -125,6 +114,16 @@
         "线路数组": "<a class=\"swiper-slide\"><i&&</a>",
         "二次跳转播放链接": "\"url\"*\"&&\""
       }
+    },
+      {
+      "key": "csp_XBPQ_haoxi",
+      "name": "🍎┃好戏┃2K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/好戏.json"
     },
      {
       "key": "往往",
@@ -1161,26 +1160,6 @@
       "filterable": 1
     },
     {
-      "key": "去看动漫",
-      "name": "🎊┃去看┃动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/去看动漫.json"
-    },
-    {
-      "key": "动漫直链",
-      "name": "🎭┃动漫┃直链",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/动漫直链.json"
-    },
-    {
       "key": "drpy_js_爱弹幕",
       "name": "动漫 | 爱弹幕[js]",
       "type": 3,
@@ -1237,14 +1216,6 @@
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/清风DJ.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "广播 | 蜻蜓FM[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
       "playerType": "2"
     },
     {
