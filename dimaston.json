@@ -448,16 +448,6 @@
       ]
     },
     {
-      "key": "csp_AppYsV2_4K视界",
-      "name": "☆┃视界┃2K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yycms.77ev.cn/api.php/app/"
-    },
-    {
       "key": "爱迪影视",
       "name": "💘┃爱迪┃2K",
       "type": 3,
@@ -566,14 +556,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/达达龟.json"
     },
-    {
-      "key": "橘子影视",
-      "name": "🍊橘子┃4K",
-      "type": 3,
-      "api": "csp_Appto",
-      "jar": "https://download.kstore.space/download/3313/app/to.jar",
-      "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
-    },
+    
      {
       "key": "世界",
       "name": "🌏┃世界┃2K",
