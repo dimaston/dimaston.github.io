@@ -1,7 +1,9 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//公众号：影音天堂
 {
   "warningText": "🐼公众号：影音天堂祝您发大财🐼",
   "sites": [
-    {
+       {
       "key": "豆瓣",
       "name": "⚡️┃豆瓣┃榜单",
       "type": 3,
@@ -10,36 +12,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-     {
-      "key": "csp_XBPQ_6V",
-      "name": "4k影音天堂App",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/新6v.json"
-    },
-    {
-      "key": "js_czsapp",
-      "name": "🏰┃厂长┃2K",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/厂长.js"
-    },
-    {
-      "key": "jojo_open",
-      "name": "🚁┃JOJ┃2K",
-      "type": 3,
-      "api": "csp_JoJo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
     {
       "key": "直播转点播",
@@ -52,6 +24,25 @@
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/zb.json"
     },
     {
+      "key": "js_czsapp",
+      "name": "🏰┃厂长┃4K",
+      "type": 3,
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/厂长.js"
+    },
+     {
+      "key": "csp_Bttoo",
+      "name": "🍄┃比特┃2K",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
       "key": "索尼",
       "name": "🛸┃索尼┃2K ",
       "type": 1,
@@ -85,6 +76,26 @@
         "足球",
         "影视解说"
       ]
+    },
+    {
+      "key": "jojo_open",
+      "name": "🚁┃JOJ┃2K",
+      "type": 3,
+      "api": "csp_JoJo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    },
+    {
+      "key": "js_6V",
+      "name": "✡️┃六维┃4K",
+      "type": 3,
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/x6v.js"
     },
     {
       "key": "csp_XBPQ_haoxi",
@@ -321,26 +332,37 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/B站影视.js"
     },
-    {
-      "key": "csp_Bttoo",
-      "name": "🍄┃比特┃2K",
+     {
+      "key": "🌡csp_米爱影视",
+      "name": "🌡┃米爱┃2K",
       "type": 3,
-      "api": "csp_Bttwoo",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/米爱.json"
     },
-    {
-      "key": "新6V",
-      "name": "🧲┃新6V┃4K",
+     {
+      "key": "js_mogu",
+      "name": "🍄┃蘑菇┃影视",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_SixV",
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
+      "filterable": 1,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/蘑菇.js"
     },
+    {
+      "key": "csp_XBPQ_6V",
+      "name": "4k┃影音┃天堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/新6v.json"
+    },
+     
     {
       "key": "毛驴",
       "name": "🦒┃小驴┃4K",
@@ -519,6 +541,16 @@
         "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },
+     {
+      "key": "7️⃣csp_七月影视",
+      "name": "7️⃣┃柒月┃2K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/柒月.json"
+    },
     {
       "key": "js_nangua",
       "name": "🎃┃南瓜┃2K",
@@ -548,8 +580,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/达达龟.json"
     },
-    
-     {
+    {
       "key": "世界",
       "name": "🌏┃世界┃2K",
       "type": 3,
@@ -904,6 +935,44 @@
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
+      "key": "csp_XBPQ_jubaibai",
+      "name": "🏔┃剧白┃2K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "站名": "剧白白影视",
+        "主页url": "https://m.jubaibaic.com/",
+        "简介": "mo-ptxs-0px\">&&</p>",
+        "主演": "主演:&&</li>",
+        "导演": "导演:&&</li>",
+        "影片类型": "类型：&&<span",
+        "影片年代": "年份：&&</div>",
+        "影片地区": "地区：&&<span",
+        "影片状态": "更新：&&</div>",
+        "数组": "video-item\">&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "notes\">&&</div>",
+        "链接": "href=\"&&\"",
+        "搜索url": "/vodsearch/-------------.html?wd={wd}",
+        "搜索数组": "<dl class=\"mo-deta-info mo-cols-rows\">&&</h1>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "<a href=*>&&</a>",
+        "搜索副标题": "mo-coxs-center\">&&</span>",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-bs-toggle=&&</li>",
+        "线路标题": "✨影音天堂App专享✨-+>&&</button>",
+        "播放数组": "playlist column\">&&</ul>",
+        "播放标题": ">&&</a>",
+        "播放列表": "<li&&</li>",
+        "分类url": "https://m.jubaibaic.com/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
+      }
+    },
+    {
       "key": "Aid",
       "name": "🚑┃急救┃教学",
       "type": 3,
@@ -916,6 +985,17 @@
         "type": "rect",
         "ratio": 3.8
       }
+    },
+     {
+      "key": "js_荐片",
+      "name": "🏩┃推荐┃2K",
+      "type": 3,
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/荐片.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "drpy_js_兔小贝",
