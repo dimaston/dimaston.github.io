@@ -13,17 +13,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    
-    {
-      "key": "豆瓣",
-      "name": "⚡️┃豆瓣┃榜单",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/douban.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
     {
       "key": "直播转点播",
       "name": "📺︎┃电视┃直播",
@@ -43,6 +32,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    
      {
       "key": "索尼",
       "name": "🛸┃索尼┃2K ",
@@ -87,6 +77,17 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    },
+       {
+      "key": "橘子",
+      "name": "🍊橘子┃4K",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
     },
     {
       "key": "js_6V",
@@ -167,6 +168,16 @@
         "线路数组": "<a class=\"swiper-slide\"><i&&</a>",
         "二次跳转播放链接": "\"url\"*\"&&\""
       }
+    },
+     {
+      "key": "js_nangua",
+      "name": "🎃┃南瓜┃2K",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
     },
     {
       "key": "yqkan_open",
@@ -653,16 +664,6 @@
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/柒月.json"
     },
     {
-      "key": "js_nangua",
-      "name": "🎃┃南瓜┃2K",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
-    },
-    {
       "key": "DiDuan",
       "name": "⏮️┃高端┃2K",
       "type": 3,
@@ -858,7 +859,7 @@
       "key": "js_v2-yj",
       "name": "🌙┃专享┃2K",
       "type": 3,
-      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/yyttzx.js"
     },
     {
@@ -1711,6 +1712,16 @@
       "filterable": 1,
       "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"
     },
+     {
+      "key": "豆瓣",
+      "name": "⚡️┃豆瓣┃榜单",
+      "type": 3,
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/douban.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
@@ -1969,6 +1980,91 @@
         "bilibili",
         "哔哩哔哩",
         "哔哩"
+      ]
+    }
+  ],
+   "rules": [
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "农民",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy",
+        "s5.bfzycdn"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+     {
+            "name": "wn",
+            "hosts": [
+                "vip.123pan.cn",
+                "rescdn.wuxivlog.cn"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
       ]
     }
   ],
