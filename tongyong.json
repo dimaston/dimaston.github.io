@@ -13,17 +13,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    
-    {
-      "key": "豆瓣",
-      "name": "⚡️┃豆瓣┃榜单",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/douban.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
     {
       "key": "直播转点播",
       "name": "📺︎┃电视┃直播",
@@ -43,6 +32,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    
      {
       "key": "索尼",
       "name": "🛸┃索尼┃2K ",
@@ -87,6 +77,17 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    },
+       {
+      "key": "橘子",
+      "name": "🍊橘子┃4K",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
     },
     {
       "key": "js_6V",
@@ -168,9 +169,9 @@
         "二次跳转播放链接": "\"url\"*\"&&\""
       }
     },
-    {
+     {
       "key": "yqkan_open",
-      "name": "🛁┃短剧┃2K",
+      "name": "🛁┃一起┃2K",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -178,17 +179,57 @@
       "filterable": 0,
       "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
-    {
-      "key": "探探",
-      "name": "🏄┃影探┃4K",
+     {
+      "key": "js_nangua",
+      "name": "🎃┃南瓜┃2K",
       "type": 3,
-      "playerType": "1",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_YTVIP",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
+    },
+     {
+      "key": "豪华资源",
+      "name": "🥬┃豪华┃2K",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "香港剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "台湾剧",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "科幻片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+     {
+      "key": "蜗牛弹幕",
+      "name": "🐌┃蜗牛┃2K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/蜗牛.json"
     },
     {
       "key": "csp_WoGG",
@@ -225,15 +266,43 @@
         "播放链接": "href=\"&&\""
       }
     },
-    {
-      "key": "子子",
-      "name": "🗽┃子子┃2K",
+     {
+      "key": "毛驴",
+      "name": "🦒┃小驴┃4K",
       "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "api": "csp_MLYS",
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/子子.json"
+      "ext": "https://www.maolvys.com/"
+    },
+    {
+      "key": "小赞影视",
+      "name": "🐼┃外国┃影视",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://zy.xzam.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "欧美剧",
+        "日韩剧",
+        "国产剧",
+        "电影"
+      ]
+    },
+     {
+      "key": "鑫鑫影视",
+      "name": "🐼┃鑫鑫┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
       "key": "drpy_js_moflix影视",
@@ -341,6 +410,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/蘑菇.js"
+    },
+     {
+      "key": "西门影视",
+      "name": "👺┃西门┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.230.51.151:6969/api.php/app/"
     },
       {
       "key": "Qtv",
@@ -453,6 +532,18 @@
         "动漫"
       ]
     },
+     {
+      "key": "探探",
+      "name": "🏄┃影探┃4K",
+      "type": 3,
+      "playerType": "1",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
     {
       "key": "csp_XBPQ_6V",
       "name": "4k┃影音┃天堂",
@@ -464,17 +555,6 @@
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/新6v.json"
     },
      
-    {
-      "key": "毛驴",
-      "name": "🦒┃小驴┃4K",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_MLYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
     {
       "key": "49zy",
       "name": "🗼┃49Z┃2K",
@@ -518,48 +598,6 @@
         "其他片",
         "体育赛事",
         "海外剧"
-      ]
-    },
-    {
-      "key": "蜗牛弹幕",
-      "name": "🐌┃蜗牛┃2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/蜗牛.json"
-    },
-    {
-      "key": "豪华资源",
-      "name": "🥬┃豪华┃2K",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "香港剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "马泰剧",
-        "台湾剧",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "剧情片",
-        "战争片",
-        "动作片",
-        "科幻片",
-        "记录片",
-        "爱情片",
-        "喜剧片",
-        "灾难片",
-        "悬疑片",
-        "犯罪片",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺"
       ]
     },
     {
@@ -651,16 +689,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/柒月.json"
-    },
-    {
-      "key": "js_nangua",
-      "name": "🎃┃南瓜┃2K",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
     },
     {
       "key": "DiDuan",
@@ -858,7 +886,7 @@
       "key": "js_v2-yj",
       "name": "🌙┃专享┃2K",
       "type": 3,
-      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/yyttzx.js"
     },
     {
@@ -1062,6 +1090,51 @@
       "style": {
         "type": "rect",
         "ratio": 3.8
+      }
+    },
+      {
+      "key": "XBPQ_葡萄",
+      "name": "🎦┃短剧┃葡萄",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "数组": "class=\"stui-vodlist__box&&</li",
+        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+      }
+    },
+    {
+      "key": "js_DJ5",
+      "name": "🎦┃短剧┃DJ5",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/短剧网.js"
+    },
+    {
+      "key": "csp_XYQHiker_VSYY",
+      "name": "🎦┃短剧┃VSY",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/VS影院.json"
+    },
+    {
+      "key": "csp_XBPQ_aoaotv",
+      "name": "🎦┃短剧┃嗷嗷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
       }
     },
      {
