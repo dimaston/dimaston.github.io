@@ -3,7 +3,17 @@
 {
   "warningText": "🐼公众号：影音天堂祝您发大财🐼",
   "sites": [
-       {
+         {
+      "key": "js豆瓣",
+      "name": "🍥┃豆瓣┃榜单,公众号:『影音天堂』提供🍥",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/douban.js"
+    }, 
+    {
       "key": "索尼",
       "name": "🛸┃索尼┃高清秒播 ",
       "type": 1,
@@ -38,16 +48,7 @@
         "影视解说"
       ]
     },
-       {
-      "key": "豆豆",
-      "name": "🌄┃豆瓣┃榜单",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+   
     {
       "key": "直播转点播",
       "name": "📺︎┃电视┃直播",
