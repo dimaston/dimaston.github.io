@@ -3,17 +3,7 @@
 {
   "warningText": "🐼公众号：影音天堂祝您发大财🐼",
   "sites": [
-    
-    {
-      "key": "js豆瓣",
-      "name": "🍥┃豆瓣┃榜单,公众号:『影音天堂』提供🍥",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/douban.js"
-    },
+   
        {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃2K",
