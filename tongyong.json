@@ -14,16 +14,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "js豆瓣",
-      "name": "🍥影音天堂App下载地址tvbox.vip🍥",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/douban.js"
-    },
        {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃2K",
