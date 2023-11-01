@@ -15,6 +15,16 @@
       "filterable": 0
     },
      {
+      "key": "應用商店",
+      "name": "🏮应用商店┃软件下载🏮",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/market.json",
+      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/fm商店.jar"
+    }, 
+     {
       "key": "直播转点播",
       "name": "📺︎┃电视┃直播",
       "type": 3,
@@ -24,20 +34,11 @@
       "filterable": 0,
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/zb.json"
     },
-     {
-      "key": "應用商店",
-      "name": "🛒高清软件下载",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/market.json",
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/fm商店.jar"
-    },
+    
 
     {
       "key": "js豆瓣备用",
-      "name": "🍥影音天堂App下载地址tvbox.vip🍥",
+      "name": "🍥豆瓣榜单🍥",
       "type": 3,
       "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/doubanbf.js",
       "searchable": 1,
@@ -140,17 +141,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
-    },
-     {
-      "key": "csp_xBPQ_玖八",
-      "name": "👼┃九八┃2K",
-      "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/98影视.json"
     },
       {
       "key": "觅视频",
@@ -1865,7 +1855,79 @@
       ]
     }
   ],
-  
+   "rules": [
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "农民",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy",
+        "s5.bfzycdn"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
   "lives": [
