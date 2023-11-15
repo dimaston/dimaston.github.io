@@ -204,6 +204,17 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/6V.js"
     },
+      {
+      "key": "玩偶哥哥",
+      "name": "♨️┃玩偶┃4K",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
      {
       "key": "csp_子子",
       "name": "🗽┃子子┃",
@@ -571,16 +582,7 @@
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
-    {
-      "key": "csp_WoGG",
-      "name": "🌩┃玩偶┃4k",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
-    },
+   
     {
       "key": "嘉靓",
       "name": "☃┃嘉靓┃",
