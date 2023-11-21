@@ -21,18 +21,18 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/market.json",
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/fm商店.jar"
+      "ext": "http:tvbox.vip/json/market.json",
+      "jar": "http:tvbox.vip/jar/fm商店.jar"
     }, 
      {
       "key": "直播转点播",
       "name": "📺︎┃电视┃直播",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/js/zbzdb.js",
+      "api": "http:tvbox.vip/js/zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/zb.json"
+      "ext": "http:tvbox.vip/json/zb.json"
     },
     
 
@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/小鹿影视.json"
+      "ext": "http:tvbox.vip/json/小鹿影视.json"
     },
        {
       "key": "csp_万达",
@@ -149,7 +149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/万达影视.json"
+      "ext": "http:tvbox.vip/json/万达影视.json"
     },
     {
       "key": "Mino",
@@ -223,7 +223,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/子子影视.json"
+      "ext": "http:tvbox.vip/json/子子影视.json"
     },
     {
       "key": "csp_XBPQ_haoxi",
@@ -233,13 +233,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/好戏.json"
+      "ext": "http:tvbox.vip/json/好戏.json"
     },
       {
       "key": "csp_星辰",
       "name": "⭐┃星辰┃",
       "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -295,7 +295,7 @@
       "key": "csp_干饭",
       "name": "🍱┃干饭┃",
       "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -306,7 +306,7 @@
       "key": "csp_xBPQ_疯狗",
       "name": "🐕┃疯狗┃",
       "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -317,7 +317,7 @@
       "key": "csp_盒子",
       "name": "🍁┃电盒┃",
       "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -438,7 +438,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/98影视.json"
+      "ext": "http:tvbox.vip/json/98影视.json"
     },
       {
       "key": "csp_七新",
@@ -448,7 +448,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/七新影视.json"
+      "ext": "http:tvbox.vip/json/七新影视.json"
     },
       {
       "key": "csp_爱看",
@@ -458,7 +458,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/爱看影视.json"
+      "ext": "http:tvbox.vip/json/爱看影视.json"
     },
     
     {"key":"奈落","name":"🍂┃奈落┃","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","播放数组":"<div class=\"scroll-content&&</div>","线路标题":"耐落-+<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#综艺$4#动漫$3"}},
@@ -471,18 +471,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/往往影视.json"
+      "ext": "http:tvbox.vip/json/往往影视.json"
     },
     {
       "key": "csp_日后",
       "name": "🌜┃348┃",
       "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/348影视.json"
+      "ext": "http:tvbox.vip/json/348影视.json"
     },
      {
       "key": "豪华资源",
@@ -525,7 +525,7 @@
       "name": "🐌┃蜗牛┃",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/蜗牛.json"
+      "ext": "http:tvbox.vip/json/蜗牛.json"
     },
      {
       "key": "XBPQ_一只蜗",
@@ -603,29 +603,29 @@
       "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
       "playerType": "2",
       "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/黑狐影院.json"
+      "ext": "http:tvbox.vip/json/黑狐影院.json"
     },
     {
       "key": "csp_101",
       "name": "🛎┃LOL┃",
       "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/LOL.json"
+      "ext": "http:tvbox.vip/json/LOL.json"
     },
     {
       "key": "csp_圣城",
       "name": "🏰┃圣城┃",
       "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/圣城影视.json"
+      "ext": "http:tvbox.vip/json/圣城影视.json"
     },
       {
       "key": "csp_威士",
@@ -635,7 +635,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/vs影视.json"
+      "ext": "http:tvbox.vip/json/vs影视.json"
     },
      {
       "key": "csp_xBPQ_奇优",
@@ -645,7 +645,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/奇优影视.json"
+      "ext": "http:tvbox.vip/json/奇优影视.json"
     },
     {
       "key": "csp_兔年",
@@ -655,7 +655,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/YYDS影视.json"
+      "ext": "http:tvbox.vip/json/YYDS影视.json"
     },
     
     {
@@ -663,7 +663,7 @@
       "name": "🦢┃小白┃",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/素白白.json"
+      "ext": "http:tvbox.vip/json/素白白.json"
     },
       {
       "key": "js_bzys",
@@ -683,17 +683,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/米爱.json"
+      "ext": "http:tvbox.vip/json/米爱.json"
     },
      {
       "key": "js_mogu",
       "name": "🍄┃蘑菇┃影视",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "api": "http:tvbox.vip/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/蘑菇.js"
+      "ext": "http:tvbox.vip/js/蘑菇.js"
     },
       {
       "key": "csp_AppMr",
@@ -795,7 +795,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/新6v.json"
+      "ext": "http:tvbox.vip/json/新6v.json"
     },
      
    
@@ -815,7 +815,7 @@
       "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/耐看.json"
+      "ext": "http:tvbox.vip/json/耐看.json"
     },
     {
       "key": "速搜",
@@ -837,7 +837,7 @@
         "影片地区": "地区：&&</li>",
         "导演": "<h2>&&</h2>",
         "主演": "演员：&&</li>",
-        "简介": "【影音天堂App】高清4K版，下载地址https://jihulab.com/dimaston1/4k/-/raw/main/4k简介：&&</li>",
+        "简介": "【影音天堂App】高清4K版，下载地址http:tvbox.vip/4k简介：&&</li>",
         "播放数组": "<ul class='content-playlist&&</ul",
         "播放列表": "<a&&/a>",
         "跳转播放链接": "https://web-pro2.cjjd18.com.2kj.org/jx.php?url=+link_pre*url\":\"&&\"",
@@ -887,7 +887,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/柒月.json"
+      "ext": "http:tvbox.vip/json/柒月.json"
     },
     {
       "key": "DiDuan",
@@ -906,7 +906,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/达达龟.json"
+      "ext": "http:tvbox.vip/json/达达龟.json"
     },
     {
       "key": "世界",
@@ -923,11 +923,11 @@
       "key": "js_农民",
       "name": "👨‍🌾┃农民┃",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
+      "api": "http:tvbox.vip/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/nongmin.js"
+      "ext": "http:tvbox.vip/js/nongmin.js"
     },
     {
       "key": "zxzj",
@@ -965,18 +965,18 @@
       "playerType": 1,
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "api": "csp_XYQHiker",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/电影港.json"
+      "ext": "http:tvbox.vip/json/电影港.json"
     },
     {
       "key": "蚂蚁",
       "name": "🐜┃蚂蚁┃4K",
       "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XPathAli",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/蚂蚁磁力.json"
+      "ext": "http:tvbox.vip/蚂蚁磁力.json"
     },
    
      {
@@ -1053,7 +1053,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/歪片星球.json"
+      "ext": "http:tvbox.vip/json/歪片星球.json"
     },
       {
       "key": "影图",
@@ -1090,14 +1090,14 @@
       "name": "👌┃首播┃",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/%E9%A6%96%E6%92%AD.js"
+      "ext": "http:tvbox.vip/js/%E9%A6%96%E6%92%AD.js"
     },
     {
       "key": "js_v2-yj",
       "name": "🌙┃专享┃",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/yyttzx.js"
+      "api": "http:tvbox.vip/libs/drpy2.min.js",
+      "ext": "http:tvbox.vip/js/yyttzx.js"
     },
     {
       "key": "骑骑影院",
@@ -1340,8 +1340,8 @@
       "key": "js_荐片",
       "name": "🏩┃推荐┃",
       "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/荐片.js",
+      "api": "http:tvbox.vip/libs/drpy2.min.js",
+      "ext": "http:tvbox.vip/js/荐片.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -1863,7 +1863,7 @@
       ]
     }
   ],
-   
+ 
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "spider": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar",
   "lives": [
