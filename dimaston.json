@@ -6,7 +6,7 @@
     
      {
       "key": "豆豆",
-      "name": "🍥热播榜单🍥",
+      "name": "🍥4K版影音天堂App下载地址tvbox.vip🍥",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_DouDou",
@@ -28,13 +28,22 @@
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "type": 3,
+      "api": "http:tvbox.vip/js/zbzdb.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http:tvbox.vip/json/zb.json"
+    },
+     {
+      "key": "直播转点播",
+      "name": "📺︎┃电视┃直播",
+      "type": 3,
       "api": "https://jihulab.com/wanda/4k/-/raw/main/js/zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
+      "ext": "http:tvbox.vip/json/zb.json"
     },
-
     {
       "key": "js豆瓣",
       "name": "🍥豆瓣榜单🍥",
