@@ -145,12 +145,14 @@
       "key": "csp_FanYY",
       "name": "♨️┃玩偶┃4K",
       "type": 3,
+      "jar": "http://我不是.肥猫.live/Jar/pandaQ231115.jar;md5;cb2a84ff515a9d54fc7590bb56d62f04",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
+
     {
       "key": "csp_Free",
       "name": "🦌┃Free┃",
