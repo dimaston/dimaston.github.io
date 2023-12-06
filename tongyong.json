@@ -1,18 +1,17 @@
 {
   "warningText": "🐼公众号：影音天堂,祝您发大财🐼",
   "sites": [
-     
-    {
-      "key": "豆豆",
-      "name": "🍥┃豆瓣┃榜单",
+     {
+      "key": "drpy_js_豆瓣",
+      "name": "4k版影音天堂下载地址tvbox.vip",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_DouDou",
-      "searchable": 0,
+      "api": "https://jihulab.com/wanda/4k/-/raw/main/lib/drpy2.min.js",
+      "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/js/豆瓣推荐.js"
     },
-    {
+     {
       "key": "影探VIP",
       "name": "影视世界┃4K",
       "type": 3,
@@ -1864,7 +1863,7 @@
       ]
     }
   ],
- 
+  
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "spider": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar",
   "lives": [
