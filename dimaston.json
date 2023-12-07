@@ -1,18 +1,17 @@
 {
-  "warningText": "🐼公众号：影音天堂,祝您发大财🐼",
+  "warningText": "🐼4k版影音天堂下载地址tvbox.vip🐼",
   "sites": [
-     
-    {
+       {
       "key": "豆豆",
-      "name": "🍥┃豆瓣┃榜单",
+      "name": "🌕┃热播┃榜单",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+      {
       "key": "影探VIP",
       "name": "影视世界┃4K",
       "type": 3,
@@ -22,6 +21,7 @@
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
+    
    
     {
       "key": "應用商店",
@@ -111,15 +111,7 @@
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
     },
-      {
-      "key": "路人",
-      "name": "🖼┃画画┃",
-        "jar": "https://d.kstore.space/download/6296/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "api": "csp_AppYs",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
-    },
+     
      {
       "key": "js_农民",
       "name": "👨‍🌾┃农民┃",
@@ -178,17 +170,7 @@
       "changeable": 1,
       "ext": "https://haozhansou.com/"
     },
-     {
-      "key": "csp_FanYY",
-      "name": "♨️┃玩偶┃4K",
-      "type": 3,
-      "jar": "http://我不是.肥猫.live/Jar/pandaQ231115.jar;md5;cb2a84ff515a9d54fc7590bb56d62f04",
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
+     
        {
       "key": "Libo",
       "name": "🌝┃Libo┃",
@@ -267,7 +249,17 @@
         "喜剧片"
       ]
     },
-    
+      {
+      "key": "玩偶哥哥",
+      "name": "🐪┃玩偶┃4K",
+      "type": 3,
+       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
     {
       "key": "csp_XYQHiker_‍dyx",
       "name": "🪐┃影港┃4k",
@@ -1286,71 +1278,72 @@
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"
     },
-     {
-      "key": "csp_search_七夜",
-      "name": "阿里七夜┃4K",
+       {
+      "key": "csp_七夜",
+      "name": "🔎┃阿里┃七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
-      "key": "csp_search_PanSearch",
-      "name": "阿里盘搜┃4K",
+      "key": "PanSearch",
+      "name": "🏵️‍┃阿里┃PanS",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
-      "key": "csp_search_Yisou",
-      "name": "阿里易搜┃4K",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_search_Zhaozy",
-      "name": "阿里资源┃4K",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
-    },
-    {
-      "key": "csp_search_Upyunso",
-      "name": "阿里云搜┃4K",
+      "key": "Upyunso",
+      "name": "🌤️┃阿里┃云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
-      "key": "csp_search_Alips",
-      "name": "阿里盘搜┃4K",
+      "key": "Alips",
+      "name": "📀┃阿里┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
-     
+    {
+      "key": "Yisou",
+      "name": "🎯┃阿里┃易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🔍┃阿里┃找片",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$iduoduo$$$159357"
+    },
     {
       "key": "csp_MeiJu69",
       "name": "🗽┃六九┃",
@@ -1864,131 +1857,7 @@
       ]
     }
   ],
-   "rules": [
-    {
-      "name": "wowo",
-      "hosts": [
-        "vip.123pan.cn",
-        "rescdn.wuxivlog.cn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "hwk",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "10.85"
-      ]
-    },
-    {
-      "name": "yqk",
-      "hosts": [
-        "yqk88"
-      ],
-      "regex": [
-        "18.4",
-        "15.1666"
-      ]
-    },
-    {
-      "name": "sn",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "15.1666",
-        "15.2666"
-      ]
-    },
-    {
-      "name": "bf",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "xx",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "lz",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz1",
-        "v.cdnlz"
-      ],
-      "regex": [
-        "18.5333"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "25.0666"
-      ]
-    },
-    {
-      "name": "hs",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "dy",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "nm",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "cl",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
-      ]
-    }
-  ],
+  
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "spider": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar",
   "lives": [
