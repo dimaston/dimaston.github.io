@@ -143,15 +143,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
     },
-      {
-      "key": "蝴蝶",
-      "name": "🦋┃A蝴蝶┃",
-      "type": 3,
-       "jar": "http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580",
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
-    },
+   
      
      {
       "key": "js_农民",
@@ -1182,41 +1174,7 @@
         "欧美综艺"
       ]
     },
-     {
-      "key": "索尼",
-      "name": "🛸┃索尼┃",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "大陆综艺",
-        "动作片",
-        "国产动漫",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "记录片",
-        "海外剧",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "足球",
-        "影视解说"
-      ]
-    },
+   
    
     {
       "key": "apv2_瑞丰",
