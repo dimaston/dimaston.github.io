@@ -57,6 +57,27 @@
       }
     },
      {
+      "key": "赞赞",
+      "name": "🥣┃赞赞┃",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+     {
+      "key": "feiyun",
+      "name": "☁️┃飞云┃",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {"key":"嘉良","name":"🏂┃嘉良┃","type":3,"api":"https://jihulab.com/wanda/4k/-/raw/main/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/wanda/4k/-/raw/main/js/嘉良影视.js"},
+     {
       "key": "索尼",
       "name": "🛸┃乐看┃",
       "type": 1,
@@ -155,26 +176,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nongmin.js"
     },
-     {
-      "key": "赞赞",
-      "name": "🥣┃赞赞┃",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-     {
-      "key": "feiyun",
-      "name": "☁️┃飞云┃",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+    
          {
       "key": "小胡",
       "name": "🔥┃点赞┃",
