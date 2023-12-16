@@ -1,7 +1,7 @@
 {
   "warningText": "🐼4k版影音天堂下载地址tvbox.plus🐼",
   "sites": [
-        
+       
       {
       "key": "豆豆",
       "name": "🌕┃热播┃榜单",
@@ -12,16 +12,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "影探VIP",
-      "name": "影视世界┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
-    },
+    
      
    
     {
@@ -214,7 +205,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/Free影视.json"
     },
-    
+   
      {
       "key": "低端",
       "name": "🛣┃低端┃",
