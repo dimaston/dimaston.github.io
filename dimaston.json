@@ -12,7 +12,13 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    
+     {
+      "key": "影探",
+      "name": " 影视世界4K",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/yt.js"
+    },
      
    
     {
@@ -276,6 +282,7 @@
       ]
     },
     
+   
      {
       "key": "玩偶哥哥",
       "name": "🐪┃玩偶┃4K",
@@ -1260,11 +1267,12 @@
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"
     },
-       {
+     
+     {
       "key": "YiSo",
       "name": "阿里云盘┃易搜",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_YiSo",
       "searchable": 1,
       "quickSearch": 1,
@@ -1275,7 +1283,7 @@
       "key": "Zhaozy",
       "name": "阿里云盘┃找资源",
       "type": 3,
-       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
@@ -1286,7 +1294,7 @@
       "key": "PanSou",
       "name": "阿里云盘┃盘搜",
       "type": 3,
-       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
@@ -1297,7 +1305,7 @@
       "key": "UpYun",
       "name": "阿里云盘┃Up搜",
       "type": 3,
-       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
@@ -1308,7 +1316,7 @@
       "key": "PanSearch",
       "name": "阿里云盘┃盘Se",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
@@ -1319,7 +1327,7 @@
       "key": "七夜",
       "name": "阿里云盘┃七夜",
       "type": 3,
-       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
