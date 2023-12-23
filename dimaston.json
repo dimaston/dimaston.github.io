@@ -65,6 +65,27 @@
     },
     
      {"key":"嘉良","name":"💘┃嘉良┃","type":3,"api":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/%E5%98%89%E8%89%AF%E5%BD%B1%E8%A7%86.js"},
+      {
+      "key": "亮亮",
+      "name": "💡┃亮亮┃",
+      "type": 3,
+      "jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://api.jialiangos.com:65533/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "加速",
+      "name": "🐰┃加速┃",
+      "type": 3,
+      "jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://103.42.31.123:5820/api.php/app/"
+    },
      {
       "key": "索尼",
       "name": "🛸┃乐看┃",
@@ -211,7 +232,27 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/Free影视.json"
     },
-   
+      {
+      "key": "忍者",
+      "name": "🔪┃忍者┃",
+      "api": "csp_AppRZ",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://rzys.xyz/",
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;8b2ca362e9ff6ebb7c95bb5445d2ca29"
+    },
+    {
+      "key": "996",
+      "name": "🥃┃九六┃",
+      "type": 3,
+      "filterable": 1,
+      "api": "csp_Panda",
+      "ext": {
+        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+        "筛选": "1"
+      }
+    },
      {
       "key": "低端",
       "name": "🛣┃低端┃",
@@ -1678,6 +1719,46 @@
       "type": 1,
       "url": "http://61.147.93.21:8090/index.php?url="
     },
+      {
+      "name": "亮亮🌾",
+      "type": 1,
+      "url": "https://m.jialiangos.com/jx/?url=",
+      "ext": {
+        "flag": [
+          "K_JL",
+          "JIALIANGCODE"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "赞赞🌾",
+      "type": 1,
+      "url": "http://zn.ghlyys.com/znjsonapi.php.php?url=",
+      "ext": {
+        "flag": [
+          "JMZN"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "左岸🌾",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=abejnoqyFGMN023789&format=json&url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
     {
       "name": "腾讯嗅探",
       "type": 0,
@@ -1688,128 +1769,7 @@
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
-    {
-      "name": "白茶嗅探",
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "showType": 1
-    },
-    {
-      "name": "滇红嗅探",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "小种嗅探",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "毛尖嗅探",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "flag": [
-        "qq",
-        "腾讯",
-        "qiyi",
-        "爱奇艺",
-        "奇艺",
-        "youku",
-        "优",
-        "mgtv",
-        "芒果",
-        "letv",
-        "leshi",
-        "LS",
-        "乐视",
-        "pptv",
-        "PPTV",
-        "sohu",
-        "bilibili",
-        "哔哩哔哩",
-        "哔哩"
-      ]
-    },
-    {
-      "name": "普洱嗅探",
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "type": 0,
-      "flag": [
-        "qiyi",
-        "imgo",
-        "爱奇艺",
-        "奇艺",
-        "qq",
-        "腾讯",
-        "youku",
-        "优",
-        "pptv",
-        "PPTV",
-        "letv",
-        "乐视",
-        "leshi",
-        "bilibili",
-        "哔哩哔哩",
-        "哔哩",
-        "mgtv",
-        "芒果",
-        "sohu",
-        "xigua",
-        "fun",
-        "风行"
-      ]
-    },
-    {
-      "name": "红茶嗅探",
-      "type": 0,
-      "url": "https://jx.4kdv.com/?url=",
-      "flag": [
-        "qq",
-        "腾讯",
-        "qiyi",
-        "爱奇艺",
-        "奇艺",
-        "youku",
-        "优",
-        "mgtv",
-        "芒果",
-        "letv",
-        "leshi",
-        "LS",
-        "乐视",
-        "pptv",
-        "PPTV",
-        "sohu",
-        "bilibili",
-        "哔哩哔哩",
-        "哔哩"
-      ]
-    },
-    {
-      "name": "嗅探1",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "flag": [
-        "qq",
-        "腾讯",
-        "qiyi",
-        "爱奇艺",
-        "奇艺",
-        "youku",
-        "优",
-        "mgtv",
-        "芒果",
-        "letv",
-        "leshi",
-        "LS",
-        "乐视",
-        "pptv",
-        "PPTV",
-        "sohu",
-        "bilibili",
-        "哔哩哔哩",
-        "哔哩"
-      ]
-    },
+   
     {
       "name": "嗅探2",
       "type": 0,
