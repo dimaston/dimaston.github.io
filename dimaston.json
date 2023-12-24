@@ -4,7 +4,7 @@
        
       {
       "key": "豆豆",
-      "name": "🌕┃热播┃榜单",
+      "name": "🌕┃热播┃榜单/2023.12.24更新",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
       "api": "csp_DouDou",
@@ -76,6 +76,15 @@
       "quickSearch": 1,
       "changeable": 0
     },
+     {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+    },
+    
     {
       "key": "加速",
       "name": "🐰┃加速┃",
@@ -127,7 +136,14 @@
         "电影解说"
       ]
     },
-
+     {
+      "key": "厂长",
+      "name": "🏭┃厂长┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/厂长.js"
+    },
     {"key":"Letv","name":"🎦┃Letv┃","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://jihulab.com/wanda/4k/-/raw/main/json/letv.json"},
       {
       "key": "爱迪",
@@ -162,17 +178,6 @@
       "changeable": 1
     },
    
-    
-    {
-      "key": "js_nangua",
-      "name": "🎃┃南瓜┃",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
-    },
    
      
      {
@@ -185,14 +190,17 @@
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nongmin.js"
     },
-    
-         {
-      "key": "小胡",
-      "name": "🔥┃点赞┃",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://d.xzam.cn/api.php/provide/vod/"
+     {
+      "key": "南坊",
+      "name": "☀┃南坊┃",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
     },
+     
      {
       "key": "奇奇",
       "name": "🐭┃迷你┃",
@@ -241,18 +249,7 @@
       "ext": "http://rzys.xyz/",
       "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;8b2ca362e9ff6ebb7c95bb5445d2ca29"
     },
-    {
-      "key": "996",
-      "name": "🥃┃九六┃",
-      "type": 3,
-      "filterable": 1,
-      "api": "csp_Panda",
-      "ext": {
-        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-        "筛选": "1"
-      }
-    },
+    
      {
       "key": "低端",
       "name": "🛣┃低端┃",
@@ -346,16 +343,8 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
-    {
-      "key": "js_6V",
-      "name": "✡️┃六维┃4K",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
-    },
+   
+   
      {
       "key": "csp_XBPQ_6V",
       "name": "🏍┃天堂┃4k",
@@ -1288,19 +1277,7 @@
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/VS影院.json"
     },
-    {
-      "key": "Czsapp",
-      "name": "📔┃厂长┃",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czz9.com/"
-    },
-    
+   
     {
       "key": "童趣",
       "name": "🍭┃童趣┃儿童",
