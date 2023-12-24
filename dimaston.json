@@ -12,14 +12,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {
-      "key": "影探",
-      "name": " 影视世界4K",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/yt.js"
-    },
-     
+    
    
     {
       "key": "應用商店",
