@@ -4,7 +4,7 @@
        
       {
       "key": "豆豆",
-      "name": "🌕┃热播┃榜单/2023.12.26更新",
+      "name": "🌕┃热播┃榜单/2023.12.30更新",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
       "api": "csp_DouDou",
@@ -35,13 +35,7 @@
       "filterable": 0,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
     },
-     {
-      "key": "影探",
-      "name": " 影视世界4K",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/yt.js"
-    }, 
+     
      {
       "key": "赞赞",
       "name": "🥣┃赞赞┃",
