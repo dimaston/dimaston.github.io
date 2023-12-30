@@ -36,16 +36,7 @@
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
     },
      
-     {
-      "key": "赞赞",
-      "name": "🥣┃赞赞┃",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+     
      {
       "key": "feiyun",
       "name": "☁️┃飞云┃",
@@ -58,17 +49,7 @@
     },
     
      {"key":"嘉良","name":"💘┃嘉良┃","type":3,"api":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/%E5%98%89%E8%89%AF%E5%BD%B1%E8%A7%86.js"},
-      {
-      "key": "亮亮",
-      "name": "💡┃亮亮┃",
-      "type": 3,
-      "jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://api.jialiangos.com:65533/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+     
       {
       "key": "小胡",
       "name": "🔥┃自营┃",
@@ -84,26 +65,26 @@
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
     },
-      {
-      "key": "996",
-      "name": "🍺┃九九┃",
+    {
+      "key": "赞赞",
+      "name": "🥣┃赞赞┃",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
-      "ext": {
-        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14"
-      }
-    },
-     {
-      "key": "js_fynb",
-      "name": "🐛┃毛子┃",
-      "type": 3,
-      "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/drpy2.js",
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/fynb.js"
+      "changeable": 0
+    },
+     {
+      "key": "亮亮",
+      "name": "💡┃亮亮┃",
+      "type": 3,
+      "jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://api.jialiangos.com:65533/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
      {
       "key": "索尼",
@@ -150,6 +131,28 @@
         "电影解说"
       ]
     },
+      {
+      "key": "996",
+      "name": "🍺┃九九┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
+      "ext": {
+        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14"
+      }
+    },
+     {
+      "key": "js_fynb",
+      "name": "🐛┃毛子┃",
+      "type": 3,
+      "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/fynb.js"
+    },
+    
      {
       "key": "厂长",
       "name": "🏭┃厂长┃",
