@@ -338,93 +338,18 @@
     },
     
    
-     {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃4k",
-      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "api": "csp_Panda",
+      {
+      "key": "玩偶哥哥",
+      "name": "👽┃玩偶┃4K",
       "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f8e21d60027d5d4f9e287be44f192c3f",
+      "api": "csp_WoGG",
       "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
+      "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://dt.xn--yety82d.love/玩偶哥哥.json"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
    
-       {
-      "key": "csp_search_Panda_pansearch",
-      "name": "┃盘搜┃阿里4k",
-      "type": 3,
-       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "api": "csp_Panda",
-      "ext": {
-        "数组": "flex flex-col items-start&&</div></div><div",
-        "标题": "名称：&&描述：",
-        "副标题": "发布时间：&&</p>",
-        "图片": "<img src=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
-        "timeout": 30,
-        "changeable": 0,
-        "阿里token": ""
-      }
-    },
-    {
-      "key": "csp_search_Panda_盘搜",
-      "name": "┃盘搜┃阿里4k2",
-      "type": 3,
-       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "api": "csp_Panda",
-      "ext": {
-        "标题": "<span*>&&</div>",
-        "副标题": "时间:&&格式",
-        "图片": "thumb=\"&&\"",
-        "链接": "/cv/+href=\"/s/&&\"",
-        "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
-        "timeout": 30,
-        "changeable": 0,
-        "阿里token": ""
-      }
-    },
-    {
-      "key": "csp_search_Panda_找资源",
-      "name": "┃资源┃阿里4k",
-      "type": 3,
-       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "api": "csp_Panda",
-      "ext": {
-        "数组": "news_text&&</li>",
-        "标题": "<h3>&&</h3>",
-        "副标题": "时间：&&</p>",
-        "图片": "https://",
-        "链接": "/+href=\"&&\"",
-        "跳转数组": "</div>*<a&&</a>",
-        "跳转链接": "https://www.aliyundrive.com/s/+aliyundrive.com/s/&&\"",
-        "搜索url": "https://zhaoziyuan.me/so?filename={wd}&page=1;;ckrS5",
-        "登录": "https://zhaoziyuan.me/logiu.html;post;username=***&password=***",
-        "timeout": 30,
-        "changeable": 0,
-        "阿里token": ""
-      }
-    },
-    {
-      "key": "csp_search_Panda_UP云搜",
-      "name": "┃Up搜┃阿里4k",
-      "type": 3,
-       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "api": "csp_UpYun",
-      "timeout": 30,
-      "changeable": 0,
-      "ext": ""
-    },
-    {
-      "key": "csp_search_Panda_易搜",
-      "name": "┃易搜┃阿里4k",
-      "type": 3,
-      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "api": "csp_YiSo",
-      "ext": ""
-    },
    
      {
       "key": "csp_XBPQ_6V",
@@ -1128,7 +1053,72 @@
       "playerType": "1",
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/耐看.json"
     },
-   
+      {
+      "key": "YiSo",
+      "name": "😹易搜┃阿里",
+      "type": 3,
+       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f8e21d60027d5d4f9e287be44f192c3f",
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🐺找资源┃阿里",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f8e21d60027d5d4f9e287be44f192c3f",
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+    },
+    {
+      "key": "PanSou",
+      "name": "🦊盘搜┃阿里",
+      "type": 3,
+       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f8e21d60027d5d4f9e287be44f192c3f",
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "😻Up搜┃阿里",
+      "type": 3,
+       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f8e21d60027d5d4f9e287be44f192c3f",
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃阿里",
+      "type": 3,
+       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f8e21d60027d5d4f9e287be44f192c3f",
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "七夜",
+      "name": "😾七夜┃阿里",
+      "type": 3,
+       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f8e21d60027d5d4f9e287be44f192c3f",
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
     {
       "key": "看看",
       "name": "🌀┃看看┃",
@@ -1441,171 +1431,20 @@
       }
     },
     
-      {
-      "key": "相声",
-      "name": "📻┃相声┃",
-      "type": 3,
-      "searchable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "quickSearch": 0,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-      "ext": {
-        "主页url": "https://www.xsmp3.com",
-        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-        "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
-        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
-        "标题": "title=\"&&\"",
-        "副标题": ">&&</a",
-        "链接": "href=\"&&\"",
-        "播放二次截取": "autoplay&&;</script>",
-        "播放数组": "\\[&&\\]",
-        "播放列表": "{&&}",
-        "播放链接": "url*\"&&\"",
-        "播放标题": "name*\"&&\"",
-        "播放副标题": "artist*\"&&\"",
-        "线路数组": "相声随身听",
-        "线路标题": "相声随身听",
-        "导演": "小米",
-        "主演": "相声明星",
-        "简介": "相声合集",
-        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
-        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
-      }
-    },
-    {
-      "key": "评书",
-      "name": "📻┃评书┃",
-      "type": 3,
-      "searchable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "quickSearch": 0,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-      "ext": {
-        "主页url": "https://www.psmp3.com",
-        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-        "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
-        "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
-        "标题": "title=\"&&\"",
-        "副标题": ">&&</a",
-        "链接": "href=\"&&\"",
-        "播放二次截取": "autoplay&&;</script>",
-        "播放数组": "\\[&&\\]",
-        "播放列表": "{&&}",
-        "播放链接": "url*\"&&\"",
-        "播放标题": "name*\"&&\"",
-        "播放副标题": "artist*\"&&\"",
-        "线路数组": "评书随身听",
-        "线路标题": "评书随身听",
-        "导演": "小米",
-        "主演": "评书明星",
-        "简介": "评书合集",
-        "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
-        "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
-      }
-    },
-    {
-      "key": "csp_Bili_yanchh",
-      "name": "🅱️┃歌手┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/geshou.json"
-    },
-    {
-      "key": "csp_Bili_Nvtuan",
-      "name": "🅱️┃女团┃热舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/nvtuan.json"
-    },
-    {
-      "key": "MV_vod",
-      "name": "🎹┃MTV┃合集",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bili_MTV",
-      "name": "🅱️┃歌曲┃演唱",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mtv.json"
-    },
-    {
-      "key": "csp_Bili_Yinl2",
-      "name": "🅱️┃音悦┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/yinyue.json"
-    },
-    {
-      "key": "js_哔哩直播",
-      "name": "🅱️┃哔哩┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/哔哩直播.js"
-    },
-    {
-      "key": "短视频",
-      "name": "📱┃网红┃美女",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/短视频聚合.json"
-    },
-   
-    {
-      "key": "csp_虎牙",
-      "name": "🐯┃虎牙┃直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/虎牙.json"
-    },
-    {
-      "key": "js_斗鱼直播",
+     
+     {
+      "key": "drpy_js_斗鱼直播",
       "name": "🦈┃斗鱼┃直播",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/斗鱼.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
+    },
+    {
+      "key": "drpy_js_虎牙直播",
+      "name": "🐯┃虎牙┃直播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
     },
     {
       "key": "PS",
