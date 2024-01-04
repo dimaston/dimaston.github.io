@@ -35,7 +35,24 @@
       "filterable": 0,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
     },
-     
+      {
+      "key": "js_yingtan",
+      "name": "🤟┃影视世界┃4K",
+      "type": 3,
+      "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/探探.js"
+    },
+      {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+    },
      
      {
       "key": "feiyun",
@@ -47,7 +64,16 @@
       "quickSearch": 1,
       "changeable": 0
     },
-    
+     {
+      "key": "一起看 ",
+      "name": "👑┃一起┃",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
      {"key":"嘉良","name":"💘┃嘉良┃","type":3,"api":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/%E5%98%89%E8%89%AF%E5%BD%B1%E8%A7%86.js"},
      
       {
@@ -67,24 +93,8 @@
       "quickSearch": 1,
       "ext": "http://122.228.84.103:6117/api.php/app/"
     },
-     {
-      "key": "nangua",
-      "name": "🎃┃南瓜┃",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
-    },
-    {
-      "key": "赞赞",
-      "name": "🥣┃赞赞┃",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+    
+   
      {
       "key": "亮亮",
       "name": "💡┃亮亮┃",
@@ -108,50 +118,16 @@
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
     },
      {
-      "key": "索尼",
-      "name": "🛸┃乐看┃",
-      "type": 1,
-      "api": "http://letv.pro/api.php/provide/vod/?ac=list",
-      "playUrl": "",
+      "key": "js_zyys",
+      "name": "🐛┃追忆┃",
+      "type": 3,
+      "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": [
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "大陆综艺",
-        "国产动漫",
-        "短剧",
-        "纪录片",
-        "电影自营",
-        "电视剧自营",
-        "动漫自营",
-        "综艺自营",
-        "4K电影",
-        "演员",
-        "台湾剧",
-        "泰国剧",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "记录片",
-        "海外剧",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "电影解说"
-      ]
+      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/zyys.js"
     },
+    
       {
       "key": "996",
       "name": "🍺┃九九┃",
@@ -163,16 +139,7 @@
         "分类": "电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14"
       }
     },
-     {
-      "key": "js_fynb",
-      "name": "🐛┃毛子┃",
-      "type": 3,
-      "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/fynb.js"
-    },
+    
     
      {
       "key": "厂长",
@@ -205,16 +172,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "一起看 ",
-      "name": "👑┃一起┃",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
    
    
      
@@ -307,18 +265,6 @@
         "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
-    },
-    {
-      "key": "繁星",
-      "name": "💥┃繁星┃",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_AppMao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
     },
    
   
