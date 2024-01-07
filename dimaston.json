@@ -35,6 +35,16 @@
       "filterable": 0,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
     },
+     {
+      "key": "js_yingtan",
+      "name": "🤟┃影视世界┃4K",
+      "type": 3,
+      "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/探探.js"
+    },
       {
       "key": "小胡",
       "name": "🔥┃自营┃",
