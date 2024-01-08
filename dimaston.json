@@ -52,6 +52,14 @@
       "playerType": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/"
     },
+      {"key":"VIP高清",
+      "name":"💘┃VIP高清┃",
+      "type":3,
+      "api":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://jihulab.com/wanda/4k/-/raw/main/js/jialiang1.js"},
       {
       "key": "九六",
       "name": "🎀┃齐乐┃",
@@ -74,6 +82,7 @@
       "filterable": 0,
       "ext": "https://www.cs1369.com#公众号:影视资源站"
     },
+    {"key":"嘉良","name":"💘┃嘉良┃","type":3,"api":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/%E5%98%89%E8%89%AF%E5%BD%B1%E8%A7%86.js"},
       {
       "key": "csp_Auete",
       "name": "🦝┃奥义┃",
@@ -140,9 +149,11 @@
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
     },
-     {"key":"嘉良","name":"💘┃嘉良┃","type":3,"api":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/%E5%98%89%E8%89%AF%E5%BD%B1%E8%A7%86.js"},
+    
      
      
+    
+    
       {
       "key": "加速",
       "name": "🐰┃加速┃",
@@ -171,6 +182,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
+    },
+      {
+      "key": "js_嘉靓",
+      "name": "🪔┃加亮┃",
+      "type": 3,
+      "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/js/jialiang.js"
     },
        {
       "key": "南坊",
@@ -1525,19 +1546,7 @@
         }
       }
     },
-    {
-      "name": "赞赞🌾",
-      "type": 1,
-      "url": "http://zn.ghlyys.com/znjsonapi.php.php?url=",
-      "ext": {
-        "flag": [
-          "JMZN"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+   
     {
       "name": "左岸🌾",
       "type": 1,
