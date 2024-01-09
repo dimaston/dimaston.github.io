@@ -4,7 +4,7 @@
        
       {
       "key": "豆豆",
-      "name": "🌕┃热播┃榜单/2024.01.06更新",
+      "name": "🌕┃热播┃榜单/2024.01.09更新",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
       "api": "csp_DouDou",
@@ -35,31 +35,25 @@
       "filterable": 0,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/zb.json"
     },
+   
      {
       "key": "js_yingtan",
       "name": "🤟┃影视世界┃4K",
       "type": 3,
-      "api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/drpy2.js",
+      "api": "https://raw.gitcode.com/xduo/box/raw/main/libs/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/leevi0321/xduo/raw/libs/探探.js"
+      "ext": "https://raw.gitcode.com/xduo/box/raw/main/libs/探探.js"
     },
       {
       "key": "小胡",
-      "name": "🔥┃自营┃",
+      "name": "🔥┃小胡┃4k",
       "type": 1,
       "playerType": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/"
     },
-      {"key":"VIP高清",
-      "name":"💘┃VIP高清┃",
-      "type":3,
-      "api":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://jihulab.com/wanda/4k/-/raw/main/js/jialiang1.js"},
+     
       {
       "key": "九六",
       "name": "🎀┃齐乐┃",
@@ -93,6 +87,7 @@
       "filterable": 1,
       "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
     },
+   
       {
       "key": "量子资源",
       "name": "🥑┃量子┃",
@@ -119,18 +114,18 @@
         "喜剧片"
       ]
     },
+    
      {
       "key": "玩偶哥哥",
-      "name": "👽┃玩偶┃4K需要先用阿里云盘扫码",
+      "name": "👽阿里┃玩偶4K",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
     },
-     
      {
       "key": "一起看 ",
       "name": "👑┃一起┃",
@@ -877,15 +872,23 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/奇优影视.json"
     },
-    {
-      "key": "csp_兔年",
-      "name": "🐇┃YYD┃",
-      "type": 3,
-      "api": "csp_XBPQ",
+      {
+      "key": "csp_SNzy",
+      "name": "🐉┃饭后┃",
+      "type": 1,
+      "api": "http://4k.tvbox.fun/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/YYDS影视.json"
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "短剧",
+        "记录片"
+      
+      ]
     },
     {
       "key": "素白",
@@ -1068,10 +1071,24 @@
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/耐看.json"
     },
       {
+      "key": "有声小说js",
+      "name": "🎧有声┃小说",
+      "type": 3,
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "YiSo",
       "name": "😹易搜┃阿里",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_YiSo",
       "searchable": 1,
       "quickSearch": 1,
@@ -1082,7 +1099,7 @@
       "key": "Zhaozy",
       "name": "🐺找资源┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
@@ -1093,7 +1110,7 @@
       "key": "PanSou",
       "name": "🦊盘搜┃阿里",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
@@ -1104,7 +1121,7 @@
       "key": "UpYun",
       "name": "😻Up搜┃阿里",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
@@ -1115,7 +1132,7 @@
       "key": "PanSearch",
       "name": "🙀盘Se┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
@@ -1126,14 +1143,13 @@
       "key": "七夜",
       "name": "😾七夜┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-  
     {
       "key": "7️⃣csp_七月影视",
       "name": "7️⃣┃柒月┃",
@@ -1532,6 +1548,7 @@
       "type": 1,
       "url": "http://61.147.93.21:8090/index.php?url="
     },
+    
       {
       "name": "亮亮🌾",
       "type": 1,
