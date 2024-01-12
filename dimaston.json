@@ -69,8 +69,14 @@
       "filterable": 1,
       "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
     },
-     
-     {
+       {
+      "key": "影探",
+      "name": " 影音天堂┃4K",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/yt.js"
+    },
+	  {
       "key": "nangua",
       "name": "🎃┃南瓜┃",
       "type": 3,
