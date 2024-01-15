@@ -4,7 +4,7 @@
        
       {
       "key": "drpy_js_豆瓣",
-      "name": "豆瓣┃热播",
+      "name": "🦜豆瓣┃热播┃01.15更新",
       "type": 3,
       "api": "https://gitee.com/tx8/4k/raw/master/libs/drpy2.min.js",
       "searchable": 1,
@@ -56,7 +56,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
+    {"key":"石榴",
+     "name":"💎┃石榴┃",
+     "api":"csp_ShiLiuDY",
+     "type":3,
+     "filterable":1,
+     "playerType":2,
+     "quickSearch":1,
+     "searchable":1,
+     "ext":"https://www.hei17.com",
+     "jar":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider%E5%A4%87%E7%94%A8.jar"},
+      
       {"key":"嘉良",
      "name":"💘┃嘉良┃",
      "type":3,
@@ -65,18 +75,92 @@
      "quickSearch":1,
      "filterable":1,
      "ext":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/%E5%98%89%E8%89%AF%E5%BD%B1%E8%A7%86.js"},
-    
+     {"key":"晴天","name":"☀晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
+      {
+      "key": "FREE1OK",
+      "name": "️️👌┃福瑞┃",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/FreeOK.js" },
+       {
+      "key": "csp_Bttoo",
+      "name": "🍄┃比特┃",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
      {
+      "key": "低端",
+      "name": "🛣┃低端┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/ddys.js"
+    },
+      {
       "key": "南坊",
       "name": "☀┃南坊┃",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
       "api": "csp_AppMao",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
     },
-    
+    {"key":"蚂蚁",
+    "name":"🐜┃蚂蚁┃影视",
+    "type":3,
+    "api":"csp_Mayiys",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "playerType":2,
+    "ext":"http://rzys.xyz",
+    "jar":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider备用.jar"},
+       {
+      "key": "csp_日后",
+      "name": "🌜┃三思┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json"
+    },
+    {
+      "key": "csp_圣城",
+      "name": "🏰┃圣城┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/圣城影视.json"
+    },
+    {
+      "key": "csp_威士",
+      "name": "⛱┃威视┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/vs影视.json"
+    },
+    {
+      "key": "csp_xBPQ_奇优",
+      "name": "🌝┃奇优┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/奇优影视.json"
+    },
      {
       "key": "Kuaikan",
       "name": "🦋┃快看┃",
@@ -200,14 +284,8 @@
       }
     },
     
-     {
-      "key": "FREE1OK",
-      "name": "️️👌┃福瑞┃",
-      "type": 3,
-      "playerType": "1",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"
-    },
+    
+    
     {"key":"新视觉","name":"🎀┃视觉┃","type":3,"api":"https://gitee.com/tx8/4k/raw/master/libs/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tx8/4k/raw/master/js/新视觉.js"},  
      
      
@@ -262,16 +340,8 @@
       ]
     },
      
-    {
-      "key": "csp_Bttoo",
-      "name": "🍄┃比特┃",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {"key":"天天","name":"💡┃天天┃","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
+   
+    
      
       {
       "key": "csp_Nmys",
@@ -311,14 +381,7 @@
       "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;8b2ca362e9ff6ebb7c95bb5445d2ca29"
     },
     
-     {
-      "key": "低端",
-      "name": "🛣┃低端┃",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/ddys.js"
-    },
+    
          {
       "key": "saohuo",
       "name": "🎇┃骚火┃",
@@ -342,7 +405,7 @@
     },
      {
       "key": "csp_XBPQ_6V",
-      "name": "🏍┃天堂┃4k",
+      "name": "🏍┃可乐┃磁力4k",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -352,7 +415,7 @@
     },
      {
       "key": "csp_XYQHiker_‍dyx",
-      "name": "🪐┃影港┃4k",
+      "name": "🪐┃影港┃磁力4k",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -361,6 +424,15 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
+    {"key":"草莓熊",
+    "name":"🍓┃草莓┃磁力4k",
+    "type":3,
+    "api":"https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
+    "searchable":1,
+    "filterable":1,
+    "changeable":1,
+    "timeout":25,
+    "ext":"https://raw.gitcode.com/tvbox/4k/raw/main/js/草莓熊.js"},
     {
       "key": "csp_子子",
       "name": "🗽┃子子┃",
@@ -508,16 +580,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/往往影视.json"
     },
-    {
-      "key": "csp_日后",
-      "name": "🌜┃348┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json"
-    },
+   
     {
       "key": "豪华资源",
       "name": "🥬┃豪华┃",
@@ -581,36 +644,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/LOL.json"
     },
-    {
-      "key": "csp_圣城",
-      "name": "🏰┃圣城┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/圣城影视.json"
-    },
-    {
-      "key": "csp_威士",
-      "name": "⛱┃VSY┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/vs影视.json"
-    },
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "🌝┃奇优┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/奇优影视.json"
-    },
+    
       {
       "key": "饭后",
       "name": "🐉┃饭后┃",
