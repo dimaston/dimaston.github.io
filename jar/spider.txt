@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="https://cdn-static.gitcode.com/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="referrer" content="no-referrer"> -->
+    <title>GitCode - 开发者的代码家园</title>
+    <style type="text/css">
+      .icon {
+         width: 1em; height: 1em;
+         vertical-align: -0.15em;
+         fill: currentColor;
+         overflow: hidden;
+      }
+    </style>
+    <script type="module" crossorigin src="https://cdn-static.gitcode.com/assets/index-e691c9d4.js"></script>
+    <link rel="stylesheet" href="https://cdn-static.gitcode.com/assets/index-1e0c4cd8.css">
+  </head>
+  <body>
+    <div id="app"></div>
+    
+  </body>
+  <script type="text/javascript" src="https://cdn-static.gitcode.com/js/gitcode-icon.js"></script>
+  <script type="text/javascript" src="https://cdn-static.gitcode.com/js/lottie.min.js" defer></script>
+  <script type="text/javascript" src="https://cdn-static.gitcode.com/js/furion.js" defer></script>
+  <!-- baidu统计 -->
+  <script>
+    var _hmt = _hmt || [];
+    _hmt.push(['_setAutoPageview', false]);
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?62047c952451105d57bab2c4af9ce85b";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+</html>
