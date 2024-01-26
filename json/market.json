@@ -1,0 +1,70 @@
+[
+    {
+        "name": "应用商店",
+        "list": [
+             {
+               "name": "影音天堂4K高清版",
+                "url": "http://103.193.151.121:28772/down/UHWBvnf9PHqI.apk",
+                "icon": "http://103.193.151.121:28772/down/kMCLi2jJSWhg.png",
+                "version": "点击安装"
+            },
+            {
+               "name": "影视世界4K高清版",
+                "url": "http://103.193.151.121:28772/down/zDl6TfBVcULU.apk",
+                "icon": "http://103.193.151.121:28772/down/m7mOkiffgkhl.png",
+                "version": "点击安装"
+            },
+             {
+               "name": "手机版影视世界",
+                "url": "http://103.193.151.121:28772/down/ifX66LSGfSt9.apk",
+                "icon": "http://103.193.151.121:28772/down/m7mOkiffgkhl.png",
+                "version": "点击安装"
+            },
+             {
+               "name": "可乐TV4K高清版",
+                "url": "http://103.193.151.121:28772/down/K0JJYHCjtnUC.apk",
+                "icon": "http://103.193.151.121:28772/down/CauVhvYx83S4.png",
+                "version": "点击安装"
+            },
+            {
+                "url": "http://103.193.151.121:28772/down/fh0ABxUmZzUf.jpg",
+                "icon": "http://103.193.151.121:28772/down/fh0ABxUmZzUf.jpg",
+                "version": "公众号:影音天堂"
+            }
+        ]
+    },
+    {
+        "name": "4K版影视软件下载安装",
+        "list": [
+            {
+                "name": "影音天堂4K高清版",
+                "url": "http://103.193.151.121:28772/down/UHWBvnf9PHqI.apk",
+                "icon": "http://103.193.151.121:28772/down/kMCLi2jJSWhg.png",
+                "version": "点击安装"
+            },
+            {
+               "name": "影视世界4K高清版",
+                "url": "http://103.193.151.121:28772/down/zDl6TfBVcULU.apk",
+                "icon": "http://103.193.151.121:28772/down/m7mOkiffgkhl.png",
+                "version": "点击安装"
+            },
+             {
+               "name": "手机版影视世界",
+                "url": "http://103.193.151.121:28772/down/ifX66LSGfSt9.apk",
+                "icon": "http://103.193.151.121:28772/down/m7mOkiffgkhl.png",
+                "version": "点击安装"
+            }, 
+             {
+               "name": "可乐TV4K高清版",
+                "url": "http://103.193.151.121:28772/down/K0JJYHCjtnUC.apk",
+                "icon": "http://103.193.151.121:28772/down/CauVhvYx83S4.png",
+                "version": "点击安装"
+            },
+             {
+                "url": "http://103.193.151.121:28772/down/fh0ABxUmZzUf.jpg",
+                "icon": "http://103.193.151.121:28772/down/fh0ABxUmZzUf.jpg",
+                "version": "公众号:影音天堂"
+            }
+        ]
+    }
+]

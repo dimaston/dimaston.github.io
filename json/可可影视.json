@@ -1,0 +1,20 @@
+{
+    "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 11；； Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
+    "数组": "class=\"module-item\">&&</div>",
+    "标题": "title=\"&&\"",
+    "链接前缀": "https://www.keke9.app",
+    "图片":"https://150.109.69.134:5001+original=\"&&\"",
+    "链接": "href=\"&&\"",
+    "副标题": "<span&&</span>",
+    "搜索数组": "<a&&</a>",
+    "搜索标题": "title=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "搜索图片": "src=\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "https://www.keke9.app/search?os=pc&k={wd}",
+    "线路数组": " class=\"source-item\">&&</a>",
+    "播放数组": "class=\"episode-list&&</div>",
+    "播放链接": "href=\"&&\"",
+    "分类url": "https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+    "分类": "电影$1#剧集$2#动漫$3#综艺纪录$4#短剧$6"
+}
