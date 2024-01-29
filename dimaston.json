@@ -67,7 +67,7 @@
       "name": "荐片┃超清",
       "type": 3,
       "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
-      "ext": ".https://atomgit.com/tvbox/4k/raw/master/js/荐片.js",
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/荐片.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
