@@ -44,7 +44,13 @@
       "filterable": 1,
       "ext": "https://atomgit.com/tvbox/4k/raw/master/js/酷狗MV.js"
     },
-    
+     {
+      "key": "小胡",
+      "name": "自营┃超清",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xh.xn--yetu07f.icu/api.php/provide/vod/"
+    },
     {
 			"key": "csp_Czzy",
 			"name": "厂长┃高清",
@@ -54,7 +60,7 @@
 			"changeable": 0,
 			"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/厂长.jar"
 		},
-     
+      
        {
             "key": "1996",
             "name": "九六┃影视",
@@ -78,8 +84,36 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
+     {
+      "key": "亮亮",
+      "name": "亮亮┃影视",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
     
+     {
+      "key": "南坊",
+      "name": "南坊┃影视",
+      "type": 3,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
+    },
+     {
+      "key": "耐看",
+      "name": "耐看┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/nk.json"
+    },
       {
       "key": "孜然",
       "name": "孜然┃影视",
@@ -107,7 +141,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"超神","name":"超神┃影视","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/chaoshen","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
+  
      {"key": "奈飞影视","name":"鸭奈┃影视","type":3,"jar": "./jar/ttkx.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ynfys.json"},
       
       {
@@ -165,16 +199,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     
       {
-      "key": "南坊",
-      "name": "南坊┃影视",
+      "key": "77",
+      "name": "七七┃影视",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-      "api": "csp_AppMao",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
+      "filterable": 1
     },
     {"key":"蚂蚁",
     "name":"蚂蚁┃影视",
@@ -306,17 +339,7 @@
       "filterable": 1,
       "ext": "https://atomgit.com/tvbox/4k/raw/master/json/可可影视.json"
     }, 
-    {
-      "key": "亮亮",
-      "name": "亮亮┃影视",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+   
     {
             "key": "alist",
             "name": "小雅┃网盘",
