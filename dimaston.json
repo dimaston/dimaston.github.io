@@ -49,7 +49,7 @@
       "name": "自营┃超清",
       "type": 1,
       "playerType": 1,
-      "api": "http://xh.xn--yetu07f.icu/api.php/provide/vod/"
+      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/"
     },
     {
 			"key": "csp_Czzy",
@@ -179,6 +179,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {"key":"开心HK影视","name":"开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/tvbox/4k/raw/master/json//开心HK影视.json"},
+     {
+      "key": "皮皮虾",
+      "name": "皮皮┃影视",
+      "type": 3,
+      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240127.jar;md5;B47FBF62C42967FAF3A0F7A8E0202D55",
+      "api": "csp_PipiXia",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "XBPQ_duoju",
+      "name": "黎明┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "分类url:https://duoju.vip/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
     },
      {
       "key": "js_ddys",
