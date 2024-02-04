@@ -61,18 +61,88 @@
 			"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/厂长.jar"
 		},
       
-       {
-            "key": "1996",
-            "name": "九六┃影视",
-            "type": 3,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-                "筛选": "1"
-            }
-        },
+    
+    
+     {
+      "key": "drpy_js_B站影视",
+      "name": " 比站┃影视",
+      "type": 3,
+      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/B站影视.js"
+    },
+     {
+      "key": "耐看",
+      "name": "耐看┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/nk.json"
+    },
+     
+      {
+      "key": "XYQH_电影港",
+      "name": "港口┃磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://raw.gitcode.com/xduo/box/blobs/a0c0865e2c10594488cb1c011ae15349f9d645ef/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://raw.gitcode.com/xduo/box/raw/main/json/港口.json"
+    },
+     {
+      "key": "js_6V",
+      "name": "六维┃磁力",
+      "type": 3,
+      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/6V.js"
+    },
+     {
+  "key":"csp_Xunlei8",
+"name":"迅雷┃磁力",
+"type":3,
+"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/ttkx.jar",
+"api":"csp_Xunlei8",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
+  {
+      "key": "量子资源",
+      "name": "量子┃资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+     {
+      "key": "csp_Mp4Mov",
+    "name": "Mp4┃磁力",
+    "type": 3,
+    "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/ttkx.jar",
+    "api": "csp_Mp4Mov",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    },
      {
       "key": "js_荐片",
       "name": "荐片┃超清",
@@ -85,35 +155,17 @@
       "filterable": 1
     },
      {
-      "key": "亮亮",
-      "name": "亮亮┃影视",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    
-     {
       "key": "南坊",
       "name": "南坊┃影视",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_AppMao",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
     },
-     {
-      "key": "耐看",
-      "name": "耐看┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/nk.json"
-    },
+    
       {
       "key": "孜然",
       "name": "孜然┃影视",
@@ -142,26 +194,42 @@
       "filterable": 1
     },
   
-     {"key": "奈飞影视","name":"鸭奈┃影视","type":3,"jar": "./jar/ttkx.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ynfys.json"},
+     {"key": "奈飞影视","name":"鸭奈┃影视","type":3,"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/ttkx.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/tvbox/4k/raw/master/json/ynfys.json"},
       
       {
       "key": "玩偶哥哥",
       "name": "玩偶┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
     },
-    
+     {
+      "key": "nangua",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+    },
       {
       "key": "影探",
       "name": " 影探┃影视",
       "type": 3,
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
+    },
+      {
+      "key": "菠菜接口",
+      "name": "多线┃采集",
+      "type": 1,
+      "api": "http://film.benmx.com/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
      {"key":"晴天","name":"晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
       {
@@ -181,16 +249,18 @@
       "filterable": 1
     },
     {"key":"开心HK影视","name":"开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/tvbox/4k/raw/master/json//开心HK影视.json"},
-     {
-      "key": "皮皮虾",
-      "name": "皮皮┃影视",
-      "type": 3,
-      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240127.jar;md5;B47FBF62C42967FAF3A0F7A8E0202D55",
-      "api": "csp_PipiXia",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+       {
+            "key": "1996",
+            "name": "九六┃影视",
+            "type": 3,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+                "筛选": "1"
+            }
+        },
      {
       "key": "XBPQ_duoju",
       "name": "黎明┃影视",
@@ -230,16 +300,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"蚂蚁",
-    "name":"蚂蚁┃影视",
-    "type":3,
-    "api":"csp_Mayiys",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "playerType":2,
-    "ext":"http://rzys.xyz",
-    "jar":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider备用.jar"},
+    
        {
       "key": "csp_日后",
       "name": "三思┃影视",
@@ -331,14 +392,8 @@
       "filterable": 1
     },
     
-     {
-      "key": "nangua",
-      "name": "南瓜┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
-    },
+   
+    
      {
       "key": "Czsapp",
       "name": "厂长┃直连",
@@ -387,32 +442,7 @@
       "filterable": 1,
       "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
     },
-      {
-      "key": "量子资源",
-      "name": "量子┃资源",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ]
-    },
+    
     
     
      {
@@ -435,13 +465,6 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
-    {"key":"云播",
-    "name":"云播┃影视",
-    "type":3,
-    "api":"csp_Skapp",
-    "playerType":2,
-    "ext":"CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==",
-    "jar":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/fm.jar"},
      {
       "key": "茶杯",
       "name": "茶杯┃影视",
@@ -461,7 +484,7 @@
     
     
     
-    {"key":"新视觉","name":"视觉┃影视","type":3,"api":"https://gitee.com/tx8/4k/raw/master/libs/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tx8/4k/raw/master/js/新视觉.js"},  
+    {"key":"新视觉","name":"视觉┃影视","type":3,"api":"https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/tvbox/4k/raw/master/js/新视觉.js"},  
      
      
     
@@ -518,17 +541,7 @@
    
     
      
-      {
-      "key": "csp_Nmys",
-      "name": "农民┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
-    },
-    
+     
        {
       "key": "Libo",
       "name": "Libo┃影视",
@@ -546,16 +559,7 @@
       "filterable": 1,
       "ext": "https://atomgit.com/tvbox/4k/raw/master/json/Free影视.json"
     },
-      {
-      "key": "忍者",
-      "name": "忍者┃影视",
-      "api": "csp_AppRZ",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://rzys.xyz/",
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;8b2ca362e9ff6ebb7c95bb5445d2ca29"
-    },
-    
+     
     
          {
       "key": "saohuo",
@@ -578,26 +582,8 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
     },
-     {
-      "key": "csp_XBPQ_6V",
-      "name": "六位┃磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/新6v.json"
-    },
-     {
-      "key": "js_6V",
-      "name": "六维┃磁力",
-      "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/6V.js"
-    },
+    
+    
      {
       "key": "csp_XYQHiker_dyx",
       "name": "影港┃磁力",
@@ -649,6 +635,20 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/%e6%9e%81%e5%bd%b1%e7%bd%91.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
     },
+   
+
+
+{
+  "key":"csp_MeijuMi",
+  "name":"美剧┃磁力",
+  "type":3,
+  "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/ttkx.jar",
+  "api":"csp_MeijuMi",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+  },
+
     {
       "key": "csp_子子",
       "name": "子子┃影视",
@@ -861,24 +861,7 @@
       "ext": "https://atomgit.com/tvbox/4k/raw/master/json/LOL.json"
     },
     
-      {
-      "key": "饭后",
-      "name": "饭后┃影视",
-      "type": 1,
-      "api": "http://4k.tvbox.fun/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺",
-        "短剧",
-        "记录片"
-      
-      ]
-    },
+    
       {
       "key": "喝茶",
       "name": "喝茶┃影视",
@@ -1159,7 +1142,7 @@
       "key": "YiSo",
       "name": "易搜┃阿里",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_YiSo",
       "searchable": 1,
       "quickSearch": 1,
@@ -1170,7 +1153,7 @@
       "key": "Zhaozy",
       "name": "资源┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
@@ -1181,7 +1164,7 @@
       "key": "PanSou",
       "name": "盘搜┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
@@ -1192,7 +1175,7 @@
       "key": "UpYun",
       "name": "Up搜┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
@@ -1203,7 +1186,7 @@
       "key": "PanSearch",
       "name": "盘Se┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
@@ -1214,7 +1197,7 @@
       "key": "七夜",
       "name": "七夜┃阿里",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
@@ -1222,7 +1205,7 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-      "key": "7️⃣csp_七月影视",
+      "key": "csp_七月影视",
       "name": "柒月┃影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -1274,7 +1257,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/歪片星球.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/歪片星球.json"
     },
    
    
@@ -1332,11 +1315,11 @@
       "key": "js_a8音乐",
       "name": "奥迪┃音乐",
       "type": 3,
-      "api": "./lab/drpy2.min.js",
+      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/a8音乐.js"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/a8音乐.js"
     },
     {
       "key": "csp_酷奇",
@@ -1346,90 +1329,90 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/酷奇MV.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/酷奇MV.json"
     },
      {
       "key": "csp_Bili_zyy",
       "name": "中医┃药区",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/zyy.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/zyy.json"
     },
       {
       "key": "csp_Bili_xuqu1",
       "name": "戏曲┃合集",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/xiqu.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/xiqu.json"
     },
       {
       "key": "csp_Bili_TYjs",
       "name": "体育┃健身",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/tiyu.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/tiyu.json"
     },
     {
       "key": "csp_Bili_xiangsh",
       "name": "相声┃小品",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/xiaopin.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/xiaopin.json"
     },
     {
       "key": "csp_Bili_FBqx",
       "name": "球队┃球星",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/qiudui.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/qiudui.json"
     },
     {
       "key": "csp_Bili_Meinvw",
       "name": "美女┃舞蹈",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/meinv.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/meinv.json"
     },
     {
       "key": "csp_Bili_yanchh",
       "name": "歌手┃合集",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/geshou.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/geshou.json"
     },
      {
       "key": "csp_Bili_Nvtuan",
       "name": "女团┃热舞",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1440,7 +1423,7 @@
       "key": "MV_vod",
       "name": "MTV┃合集",
       "type": 1,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -1450,66 +1433,66 @@
       "key": "csp_Bili_MTV",
       "name": "歌曲┃演唱",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/mtv.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/mtv.json"
     },
     {
       "key": "csp_Bili_Yinl2",
       "name": "音乐┃合集",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/yinyue.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/yinyue.json"
     },
       {
       "key": "csp_Bili_dashan",
       "name": "搭讪┃教程",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/搭讪.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/搭讪.json"
     },
     {
       "key": "csp_Bili__dapei",
       "name": "搭配┃教程",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/搭配.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/搭配.json"
     },
     {
       "key": "js_B站精简",
       "name": "哔哩┃精简",
       "type": 3,
-      "api": "./lab/drpy2.min.js",
+      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/B站精简.js"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/B站精简.js"
     },
     {
       "key": "csp_Bili_meishi",
       "name": "美食┃合集",
       "type": 3,
-      "jar": "./jar/fine.jar",
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/美食合集.json"
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/美食合集.json"
     },
     {
       "key": "XBPQ_葡萄",
@@ -1612,7 +1595,7 @@
       "name": "云盘┃设置",
       "type": 3,
       "api": "csp_KungFu404",
-      "jar": "./jar/alibaba.jar"
+      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/alibaba.jar"
     },
     {
       "key": "dr_兔小贝",
@@ -1705,62 +1688,39 @@
       "type": 3,
       "url": "Demo"
     },
-    {
-      "name": "玉米",
+       {
+      "name": "影视世界",
       "type": 1,
-      "url": "http://61.147.93.21:8090/index.php?url="
-    },
-      {
-      "name": "亮亮🌾",
-      "type": 1,
-      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
       "ext": {
         "flag": [
-          "seven"
-        ],
-        "header": {
-          "User-Agent": "Lavf/58.12.100"
-        }
-      }
-    },
-    {
-      "name": "赞赞🌾",
-      "type": 1,
-      "url": "https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=",
-      "ext": {
-        "flag": [
-          "JMZN"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-     {
-      "name": "赞赞🌾",
-      "type": 1,
-      "url": "http://4k.tvbox.fun/znjsonapi.php.php?url=",
-      "ext": {
-        "flag": [
-          "JMZN"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-      
-    {
-      "name": "左岸🌾",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=abejnoqyFGMN023789&format=json&url=",
-      "ext": {
-        "flag": [
-          "seven"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
       }
     },
     {
