@@ -107,6 +107,14 @@
 "quickSearch":1,
 "filterable":1
 },
+ {
+      "key": "nangua",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+    },
   {
       "key": "量子资源",
       "name": "量子┃资源",
@@ -198,7 +206,7 @@
       
       {
       "key": "玩偶哥哥",
-      "name": "玩偶┃阿里",
+      "name": "阿里┃玩偶4k",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
       "api": "csp_WoGG",
@@ -207,14 +215,17 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
     },
-     {
-      "key": "nangua",
-      "name": "南瓜┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
-    },
+      {"key": "阿里云集合",
+       "name": "阿里┃合集4K",
+     "type": 3,
+     "api": "csp_阿里云集合",
+     "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/阿里集合.json;./token.txt",
+      "jar":"https://atomgit.com/tvbox/4k/raw/master/jar/dk0204.jar;md5;5d982c729a977e24743ff60c18390311"
+      },
+    
       {
       "key": "影探",
       "name": " 影探┃影视",
@@ -1590,6 +1601,7 @@
       "filterable": 1,
       "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"
     },
+  
      {
       "key": "csp_KungFu404",
       "name": "云盘┃设置",
