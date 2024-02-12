@@ -6,11 +6,11 @@
       "key": "drpy_js_豆瓣",
       "name": "豆瓣┃榜单",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/豆瓣.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/js/豆瓣.js"
     },
    
     {
@@ -20,29 +20,29 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/market.json",
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fm商店.jar"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/market.json",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fm商店.jar"
     },
    
     {
       "key": "直播转点播",
       "name": "电视┃直播",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/js/zbzdb.js",
+      "api": "https://atomgit.com/music/4k/raw/master/js/zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/zb.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/zb.json"
     },
       {
       "key": "js_酷狗MV",
       "name": "酷狗┃音乐",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/酷狗MV.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/js/酷狗MV.js"
     },
      {
       "key": "小胡",
@@ -58,7 +58,7 @@
 			"api": "csp_Czzy",
 			"searchable": 1,
 			"changeable": 0,
-			"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/厂长.jar"
+			"jar": "https://atomgit.com/music/4k/raw/master/jar/厂长.jar"
 		},
       
     
@@ -67,15 +67,15 @@
       "key": "drpy_js_B站影视",
       "name": " 比站┃影视",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/B站影视.js"
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
+      "ext": "https://atomgit.com/music/4k/raw/master/js/B站影视.js"
     },
      {
       "key": "耐看",
       "name": "耐看┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/nk.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/nk.json"
     },
      
       {
@@ -91,17 +91,17 @@
       "key": "js_6V",
       "name": "六维┃磁力",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/6V.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/js/6V.js"
     },
      {
   "key":"csp_Xunlei8",
 "name":"迅雷┃磁力",
 "type":3,
-"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/ttkx.jar",
+"jar": "https://atomgit.com/music/4k/raw/master/jar/ttkx.jar",
 "api":"csp_Xunlei8",
 "searchable":1,
 "quickSearch":1,
@@ -145,7 +145,7 @@
       "key": "csp_Mp4Mov",
     "name": "Mp4┃磁力",
     "type": 3,
-    "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/ttkx.jar",
+    "jar": "https://atomgit.com/music/4k/raw/master/jar/ttkx.jar",
     "api": "csp_Mp4Mov",
     "searchable": 1,
     "quickSearch": 1,
@@ -155,8 +155,8 @@
       "key": "js_荐片",
       "name": "荐片┃超清",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/荐片.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
+      "ext": "https://atomgit.com/music/4k/raw/master/js/荐片.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -183,13 +183,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/孜然影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/孜然影视.json"
     },
      {
       "key": "ggys_open",
       "name": "高光┃影视",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/js/ggys_open.js"
+      "api": "https://atomgit.com/music/4k/raw/master/js/ggys_open.js"
     },
       {
       "key": "哔嘀",
@@ -202,7 +202,7 @@
       "filterable": 1
     },
   
-     {"key": "奈飞影视","name":"鸭奈┃影视","type":3,"jar": "https://atomgit.com/tvbox/4k/raw/master/jar/ttkx.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/tvbox/4k/raw/master/json/ynfys.json"},
+     {"key": "奈飞影视","name":"鸭奈┃影视","type":3,"jar": "https://atomgit.com/music/4k/raw/master/jar/ttkx.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/music/4k/raw/master/json/ynfys.json"},
       
       {
       "key": "玩偶哥哥",
@@ -222,8 +222,8 @@
      "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/阿里集合.json;./token.txt",
-      "jar":"https://atomgit.com/tvbox/4k/raw/master/jar/dk0204.jar;md5;5d982c729a977e24743ff60c18390311"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/阿里集合.json;./token.txt",
+      "jar":"https://atomgit.com/music/4k/raw/master/jar/dk0204.jar;md5;5d982c729a977e24743ff60c18390311"
       },
     
       {
@@ -259,7 +259,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"开心HK影视","name":"开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/tvbox/4k/raw/master/json//开心HK影视.json"},
+    {"key":"开心HK影视","name":"开心┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/music/4k/raw/master/json//开心HK影视.json"},
        {
             "key": "1996",
             "name": "九六┃影视",
@@ -286,11 +286,11 @@
       "key": "js_ddys",
       "name": "低端┃影视",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/低端影视.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/js/低端影视.js"
     },
      {
       "key": "DiDuan",
@@ -320,7 +320,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/348影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/348影视.json"
     },
     {
       "key": "csp_圣城",
@@ -330,7 +330,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/圣城影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/圣城影视.json"
     },
     {
       "key": "csp_威士",
@@ -340,7 +340,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/vs影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/vs影视.json"
     },
     {
       "key": "csp_xBPQ_奇优",
@@ -350,7 +350,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/奇优影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/奇优影视.json"
     },
      
       {
@@ -361,7 +361,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/万达影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/万达影视.json"
     },
     {
             "key": "csp_XBPQ_lz",
@@ -387,11 +387,11 @@
       "key": "js_zyys",
       "name": "追忆┃影视",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/zyys.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/js/zyys.js"
     },
      {
       "key": "Kuaikan",
@@ -424,7 +424,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/可可影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/可可影视.json"
     }, 
    
     {
@@ -495,7 +495,7 @@
     
     
     
-    {"key":"新视觉","name":"视觉┃影视","type":3,"api":"https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/tvbox/4k/raw/master/js/新视觉.js"},  
+    {"key":"新视觉","name":"视觉┃影视","type":3,"api":"https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/music/4k/raw/master/js/新视觉.js"},  
      
      
     
@@ -557,8 +557,8 @@
       "key": "Libo",
       "name": "Libo┃影视",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/libvio.js"
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
+      "ext": "https://atomgit.com/music/4k/raw/master/js/libvio.js"
     },
     {
       "key": "csp_Fr1ee",
@@ -568,7 +568,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/Free影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/Free影视.json"
     },
      
     
@@ -603,37 +603,37 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/港口.json",
+      "ext": "https://atomgit.com/music/4k/raw/master/json/港口.json",
       "jar": "https://raw.gitcode.com/tvbox/4k/jar/spider.txt"
     },
     {"key":"草莓熊",
     "name":"草莓┃磁力",
     "type":3,
-    "api":"https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+    "api":"https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
     "searchable":1,
     "filterable":1,
     "changeable":1,
     "timeout":25,
-    "ext":"https://atomgit.com/tvbox/4k/raw/master/js/草莓熊.js"},
+    "ext":"https://atomgit.com/music/4k/raw/master/js/草莓熊.js"},
      {
       "key": "js_磁力熊",
       "name": "贝尔┃磁力",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/bear.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/js/bear.js"
     },
     {
       "key": "js_酷吧",
       "name": "酷吧┃磁力",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/kuba.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/js/kuba.js"
     },
     {
       "key": "csp_XYQHiker_极影网",
@@ -653,7 +653,7 @@
   "key":"csp_MeijuMi",
   "name":"美剧┃磁力",
   "type":3,
-  "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/ttkx.jar",
+  "jar": "https://atomgit.com/music/4k/raw/master/jar/ttkx.jar",
   "api":"csp_MeijuMi",
   "searchable":1,
   "quickSearch":1,
@@ -668,7 +668,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/子子影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/子子影视.json"
     },
     {
       "key": "csp_XBPQ_haoxi",
@@ -678,7 +678,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/好戏.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/好戏.json"
     },
      {
       "key": "cjzy_暴风资源",
@@ -714,7 +714,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/星辰影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/星辰影视.json"
     },
     {
       "key": "49zy",
@@ -770,7 +770,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/疯狗影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/疯狗影视.json"
     },
     {
       "key": "csp_盒子",
@@ -780,7 +780,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/电影盒子.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/电影盒子.json"
     },
    
     {
@@ -805,7 +805,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/往往影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/往往影视.json"
     },
    
     {
@@ -848,7 +848,7 @@
       "name": "蜗牛┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/蜗牛.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/蜗牛.json"
     },
    
     {
@@ -869,7 +869,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/LOL.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/LOL.json"
     },
     
     
@@ -882,7 +882,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/喝茶影视.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/喝茶影视.json"
     },
      {
 		    "key": "综合资源",
@@ -901,7 +901,7 @@
       "name": "小白┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/素白白.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/素白白.json"
     },
    
     {
@@ -912,7 +912,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/米爱.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/米爱.json"
     },
      
     {
@@ -1268,7 +1268,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/歪片星球.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/歪片星球.json"
     },
    
    
@@ -1326,11 +1326,11 @@
       "key": "js_a8音乐",
       "name": "奥迪┃音乐",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/js/a8音乐.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/js/a8音乐.js"
     },
     {
       "key": "csp_酷奇",
@@ -1340,90 +1340,90 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/酷奇MV.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/酷奇MV.json"
     },
      {
       "key": "csp_Bili_zyy",
       "name": "中医┃药区",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/zyy.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/zyy.json"
     },
       {
       "key": "csp_Bili_xuqu1",
       "name": "戏曲┃合集",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/xiqu.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/xiqu.json"
     },
       {
       "key": "csp_Bili_TYjs",
       "name": "体育┃健身",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/tiyu.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/tiyu.json"
     },
     {
       "key": "csp_Bili_xiangsh",
       "name": "相声┃小品",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/xiaopin.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/xiaopin.json"
     },
     {
       "key": "csp_Bili_FBqx",
       "name": "球队┃球星",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/qiudui.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/qiudui.json"
     },
     {
       "key": "csp_Bili_Meinvw",
       "name": "美女┃舞蹈",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/meinv.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/meinv.json"
     },
     {
       "key": "csp_Bili_yanchh",
       "name": "歌手┃合集",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/geshou.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/geshou.json"
     },
      {
       "key": "csp_Bili_Nvtuan",
       "name": "女团┃热舞",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1434,7 +1434,7 @@
       "key": "MV_vod",
       "name": "MTV┃合集",
       "type": 1,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -1444,66 +1444,66 @@
       "key": "csp_Bili_MTV",
       "name": "歌曲┃演唱",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/mtv.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/mtv.json"
     },
     {
       "key": "csp_Bili_Yinl2",
       "name": "音乐┃合集",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/yinyue.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/yinyue.json"
     },
       {
       "key": "csp_Bili_dashan",
       "name": "搭讪┃教程",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/搭讪.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/搭讪.json"
     },
     {
       "key": "csp_Bili__dapei",
       "name": "搭配┃教程",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/搭配.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/搭配.json"
     },
     {
       "key": "js_B站精简",
       "name": "哔哩┃精简",
       "type": 3,
-      "api": "https://atomgit.com/tvbox/4k/raw/master/lab/drpy2.min.js",
+      "api": "https://atomgit.com/music/4k/raw/master/lab/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/B站精简.js"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/B站精简.js"
     },
     {
       "key": "csp_Bili_meishi",
       "name": "美食┃合集",
       "type": 3,
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/fine.jar",
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/fine.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/tvbox/4k/raw/master/json/美食合集.json"
+      "ext": "https://atomgit.com/music/4k/raw/master/json/美食合集.json"
     },
     {
       "key": "XBPQ_葡萄",
@@ -1607,7 +1607,7 @@
       "name": "云盘┃设置",
       "type": 3,
       "api": "csp_KungFu404",
-      "jar": "https://atomgit.com/tvbox/4k/raw/master/jar/alibaba.jar"
+      "jar": "https://atomgit.com/music/4k/raw/master/jar/alibaba.jar"
     },
     {
       "key": "dr_兔小贝",
@@ -1775,7 +1775,7 @@
   ],
   
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://atomgit.com/tvbox/4k/raw/master/jar/keletv.jar",
+  "spider": "https://atomgit.com/music/4k/raw/master/jar/keletv.jar",
   "lives": [
     {
       "name": "live",
