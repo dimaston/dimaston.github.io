@@ -2,7 +2,7 @@
   "warningText": "🏮高清4K版影音天堂下载地址tvbox.plus🏮",
   "spider": "https://jihulab.com/e8/4k/-/raw/master/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6",
   "sites": [
-    {
+      {
       "key": "drpy_js_豆瓣",
       "name": "热播┃榜单",
       "type": 3,
@@ -22,43 +22,11 @@
       "ext": "https://jihulab.com/e8/4k/-/raw/master/json/market.json",
       "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/fm商店.jar"
     },
-    {
-      "key": "直播转点播",
-      "name": "电视┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/e8/4k/-/raw/master/js/zbzdb.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://jihulab.com/e8/4k/-/raw/master/json/zb.json"
-    },
-    {
-      "key": "js_酷狗MV",
-      "name": "酷狗┃音乐",
-      "type": 3,
-      "api": "https://jihulab.com/e8/4k/-/raw/master/lab/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/e8/4k/-/raw/master/js/酷狗MV.js"
-    },
-     {
-      "key": "白嫖",
-      "name": "白飘┃超清",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
-      "api": "csp_BaiPiao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.baipiaoys.com:9092/"
-    },
      {
       "key": "厂1长",
       "name": "厂长┃超清",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
       "api": "csp_NewCz",
       "timeout": 15,
       "playerType": 2,
@@ -67,17 +35,22 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
-     {
-      "key": "原创",
-      "name": "原力┃高清",
+    
+    
+    {
+      "key": "酷看",
+      "name": "酷看┃秒播",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
-      "api": "csp_YCyz",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+      "api": "csp_Kkys",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
+    
+   
+    
      {
       "key": "baipiaoys12",
       "name": "宇宙┃超清",
@@ -101,6 +74,102 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    
+    {
+      "key": "JOJO",
+      "name": "JOJO┃超清",
+      "type": 3,
+      "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;7e49929b6b2b5b77dacb1c3867ba5178",
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    
+    {
+      "key": "小苹果",
+      "name": "苹果┃超清",
+      "type": 3,
+      "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;7e49929b6b2b5b77dacb1c3867ba5178",
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+   
+    {
+      "key": "韩圈",
+      "name": "韩圈┃影视",
+      "type": 3,
+      "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;7e49929b6b2b5b77dacb1c3867ba5178",
+      "api": "csp_HanXiaoQuan",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    
+    {
+      "key": "无忧短剧",
+      "name": "无忧┃短剧",
+      "type": 3,
+      "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;7e49929b6b2b5b77dacb1c3867ba5178",
+      "api": "csp_Duanj",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
+    },
+    {
+      "key": "在线短剧",
+      "name": "在线┃短剧",
+      "type": 3,
+      "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;7e49929b6b2b5b77dacb1c3867ba5178",
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
+    },
+    
+    
+    
+     {
+      "key": "新6V",
+      "name": "六维┃磁力",
+      "type": 3,
+      "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/pg.jar",
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+    },
+    
+     {
+      "key": "原创",
+      "name": "原力┃高清",
+      "type": 3,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    
+    
+   
+     
      {
       "key": "haokan",
       "name": "好看┃秒播",
@@ -112,26 +181,17 @@
       "ext": "https://jihulab.com/e8/4k/-/raw/master/js/好看.js"
     },
      
+   
     {
-      "key": "酷看",
-      "name": "酷看┃超清",
+      "key": "csp_rbys",
+      "name": "热播┃影视",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
-      "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "csp_TTian",
+      "ext": "http://v.rbotv.cn",
+      "jar": "https://raw.gitcode.com/yydsys/stream/blobs/ec179cf81c11a7277ab9e169ff739e7499a02c5b/piz.jar;md5;C115831A4F54069A5C4867EC3C3ACAAC"
     },
-      {
-      "key": "js_nangua",
-      "name": "南瓜┃秒播",
-      "type": 3,
-      "api": "https://jihulab.com/e8/4k/-/raw/master/lab/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/e8/4k/-/raw/master/js/nangua.js"
-    },
+     
+      
      {
       "key": "木耳",
       "name": "木耳┃秒播",
@@ -143,22 +203,12 @@
       "filterable": 1,
       "ext": "https://jihulab.com/e8/4k/-/raw/master/json/木耳.json"
     },
-    {
-      "key": "caihua",
-      "name": "采花┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/e8/4k/-/raw/master/json/采花.json"
-    },
+   
     {
       "key": "Lib",
       "name": "立播┃高清",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
       "api": "csp_Libvio",
       "timeout": 15,
       "searchable": 1,
@@ -166,44 +216,20 @@
       "changeable": 1,
       "ext": "https://www.libvio.pw/"
     },
-     {
-      "key": "厂长",
-      "name": "厂长┃超清",
-      "type": 3,
-      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d",
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
     
     
      {
       "key": "比特",
       "name": "比特┃高清",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
      
-    {
-      "key": "新片热播",
-      "name": "新片┃热播",
-      "type": 1,
-      "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/keletv.jar",
-      "api": "https://cj.json.icu/aiku.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "动漫"
-      ]
-    },
+   
      {
       "key": "量子资源",
       "name": "量子┃资源",
@@ -230,12 +256,9 @@
         "喜剧片"
       ]
     },
-    
-   
-     
-     {
+    {
       "key": "baipiaoys",
-      "name": "白嫖┃影视",
+      "name": "白嫖┃超清",
       "type": 3,
       "api": "csp_XBPQ",
       "changeable": 1,
@@ -244,6 +267,33 @@
       "filterable": 1,
       "ext": "https://jihulab.com/e8/4k/-/raw/master/json/白嫖.json"
     },
+    
+     {
+      "key": "新片热播",
+      "name": "新片┃热播",
+      "type": 1,
+      "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/keletv.jar",
+      "api": "https://cj.json.icu/aiku.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "连续剧",
+        "动漫"
+      ]
+    },
+     {
+      "key": "js_nangua",
+      "name": "南瓜┃秒播",
+      "type": 3,
+      "api": "https://jihulab.com/e8/4k/-/raw/master/lab/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/e8/4k/-/raw/master/js/nangua.js"
+    },
+   
+   
      {
       "key": "csp_adys",
       "name": "天天┃秒播",
@@ -300,17 +350,7 @@
       "timeout": 60,
       "ext": "null$$$null$$$1"
     },
-     {
-      "key": "新6V",
-      "name": "六维┃磁力",
-      "type": 3,
-      "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/pg.jar",
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
-    },
+    
     {
       "key": "csp_Xunlei8",
       "name": "迅雷┃磁力",
@@ -322,11 +362,12 @@
       "filterable": 1
     },
     
-      {
+   
+     {
       "key": "玩偶",
       "name": "阿里┃玩偶4K",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
@@ -335,7 +376,7 @@
         "aliToken": "tvfan/token.txt",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd",
-        "siteUrl": "https://api.wogg.xyz/",
+        "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
     },
@@ -1254,6 +1295,27 @@
         "欧美综艺"
       ]
     },
+     {
+      "key": "直播转点播",
+      "name": "电视┃直播",
+      "type": 3,
+      "api": "https://jihulab.com/e8/4k/-/raw/master/js/zbzdb.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://jihulab.com/e8/4k/-/raw/master/json/zb.json"
+    },
+    {
+      "key": "js_酷狗MV",
+      "name": "酷狗┃音乐",
+      "type": 3,
+      "api": "https://jihulab.com/e8/4k/-/raw/master/lab/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/e8/4k/-/raw/master/js/酷狗MV.js"
+    },
+    
     {
       "key": "Aid",
       "name": "急救┃教学",
@@ -1525,17 +1587,13 @@
   ],
    "lives": [
     {
-      "name": "央视卫视",
-      "url": "http://tvbox.love/tv",
+      "name": "直播",
       "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{频道名称}.png"
-    },
-    {
-      "name": "IPV6源",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1
+      "playerType": 1,
+      "url": "http://my.ikan.love/uploads/tvbox/tv.txt",//直播库地址
+      "ua": "user/jialiangos@huizai",
+      "epg": "https://app.jialiangos.com/epginfo?ch={name}&date={date}",//私有的EGP需要UA验证
+      "logo": "https://apk.yzd.jialiangos.com:4443/chimg/{name}.png"//logo库支持定制台标
     }
   ],
   "parses": [
