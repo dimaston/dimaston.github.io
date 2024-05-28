@@ -1,10 +1,10 @@
 {
   "warningText": "🏮高清4K版影音天堂下载地址tvbox.plus🏮",
-  "spider": "https://jihulab.com/e8/4k/-/raw/master/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6",
+  "spider": "https://jihulab.com/e8/4k/-/raw/master/jar/fine.jar",
   "sites": [
       {
       "key": "drpy_js_豆瓣",
-      "name": "热播┃榜单",
+      "name": "请加售后qq群792772935，加过其他群不要重复加否则拉黑",
       "type": 3,
       "api": "https://jihulab.com/e8/4k/-/raw/master/lab/drpy2.min.js",
       "searchable": 1,
@@ -1585,15 +1585,19 @@
       "filterable": 1
     }
   ],
-   "lives": [
+     "lives": [
     {
-      "name": "直播",
+      "name": "央视卫视",
+      "url": "http://tvbox.love/tv",
       "type": 0,
-      "playerType": 1,
-      "url": "http://my.ikan.love/uploads/tvbox/tv.txt",//直播库地址
-      "ua": "user/jialiangos@huizai",
-      "epg": "https://app.jialiangos.com/epginfo?ch={name}&date={date}",//私有的EGP需要UA验证
-      "logo": "https://apk.yzd.jialiangos.com:4443/chimg/{name}.png"//logo库支持定制台标
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{频道名称}.png"
+    },
+    {
+      "name": "IPV6源",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1
     }
   ],
   "parses": [
